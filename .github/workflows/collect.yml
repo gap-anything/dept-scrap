@@ -1,0 +1,50 @@
+name: 백화점 3사 자동 수집
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'   # 매 30분
+  workflow_dispatch:           # 수동 실행
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25        # 3개 사이트 병렬 수집 여유 확보
+
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Python 설정
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 의존성 설치
+        run: |
+          pip install -r requirements.txt
+          playwright install chromium --with-deps
+
+      - name: 3사 병렬 수집
+        run: python collector_main.py --parallel
+        env:
+          PYTHONUNBUFFERED: '1'
+
+      - name: 통합 분석
+        run: python analyzer.py
+
+      - name: 결과 커밋 & 푸시
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ stats/
+          git diff --cached --quiet || \
+            git commit -m "data: 자동 수집 $(date +'%Y-%m-%d %H:%M KST')"
+          git push
+
+      - name: 수집 실패 시 알림 (선택)
+        if: failure()
+        run: echo "수집 실패 — Actions 로그를 확인하세요"
