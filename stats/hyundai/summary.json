@@ -1,10 +1,10 @@
 {
   "store_id": "hyundai",
   "store_name": "현대백화점",
-  "generated_at": "2026-04-17T14:45:08.613218+00:00",
-  "total_runs": 4,
+  "generated_at": "2026-04-17T17:38:08.686121+00:00",
+  "total_runs": 5,
   "first_collected": "2026-04-17T06:22:16.788156+00:00",
-  "last_collected": "2026-04-17T14:44:32.751582+00:00",
+  "last_collected": "2026-04-17T17:37:32.934165+00:00",
   "products": {
     "unique_total": 0,
     "avg_per_run": 0.0,
@@ -14,71 +14,71 @@
   },
   "promotions": {
     "unique_total": 9,
-    "avg_per_run": 9.0,
+    "avg_per_run": 8.8,
     "all": [
       {
         "title": "앱을 설치하면 훨씬 더 편리하게 사용할 수 있어요.\n\n앱 다운로드",
         "link": "",
         "image": "/favicon.png",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-04-17T14:44:32.751582+00:00",
-        "appear_count": 4
+        "last_seen": "2026-04-17T17:37:32.934165+00:00",
+        "appear_count": 5
       },
       {
         "title": "앱을 설치하면 훨씬 더 편리하게 사용할 수 있어요.",
         "link": "",
         "image": "",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-04-17T14:44:32.751582+00:00",
-        "appear_count": 4
+        "last_seen": "2026-04-17T17:37:32.934165+00:00",
+        "appear_count": 5
       },
       {
         "title": "오픈위크",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/open.png?SF=webp&AO=1",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-04-17T14:44:32.751582+00:00",
-        "appear_count": 4
+        "last_seen": "2026-04-17T17:37:32.934165+00:00",
+        "appear_count": 5
       },
       {
         "title": "현대식품관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_grocery.png?SF=webp&AO=1",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-04-17T14:44:32.751582+00:00",
-        "appear_count": 4
+        "last_seen": "2026-04-17T17:37:32.934165+00:00",
+        "appear_count": 5
       },
       {
         "title": "패션관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_edit.png?SF=webp&AO=1",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-04-17T14:44:32.751582+00:00",
-        "appear_count": 4
+        "last_seen": "2026-04-17T17:37:32.934165+00:00",
+        "appear_count": 5
       },
       {
         "title": "뷰티관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_beauty.png?SF=webp&AO=1",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-04-17T14:44:32.751582+00:00",
-        "appear_count": 4
+        "last_seen": "2026-04-17T17:37:32.934165+00:00",
+        "appear_count": 5
       },
       {
         "title": "이머징관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_attag(1).png?SF=webp&AO=1",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-04-17T14:44:32.751582+00:00",
-        "appear_count": 4
+        "last_seen": "2026-04-17T17:37:32.934165+00:00",
+        "appear_count": 5
       },
       {
         "title": "리빙관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_living.png?SF=webp&AO=1",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-04-17T14:44:32.751582+00:00",
-        "appear_count": 4
+        "last_seen": "2026-04-17T17:37:32.934165+00:00",
+        "appear_count": 5
       },
       {
         "title": "홍태준",
@@ -111,6 +111,11 @@
       "collected_at": "2026-04-17T14:44:32.751582+00:00",
       "products": 0,
       "promotions": 9
+    },
+    {
+      "collected_at": "2026-04-17T17:37:32.934165+00:00",
+      "products": 0,
+      "promotions": 8
     }
   ]
 }
