@@ -1,0 +1,67 @@
+{
+  "store_id": "hyundai",
+  "store_name": "현대백화점",
+  "collected_at": "2026-04-22T10:50:14.672134+00:00",
+  "url": "https://hi.thehyundai.com",
+  "promotions": [
+    {
+      "title": "앱을 설치하면 훨씬 더 편리하게 사용할 수 있어요.\n\n앱 다운로드",
+      "full_text": "앱을 설치하면 훨씬 더 편리하게 사용할 수 있어요.\n\n앱 다운로드",
+      "link": "",
+      "image": "/favicon.png",
+      "selector": "[class*='Promotion']"
+    },
+    {
+      "title": "앱을 설치하면 훨씬 더 편리하게 사용할 수 있어요.",
+      "full_text": "앱을 설치하면 훨씬 더 편리하게 사용할 수 있어요.",
+      "link": "",
+      "image": "",
+      "selector": "[class*='Promotion']"
+    },
+    {
+      "title": "현대식품관",
+      "full_text": "현대식품관",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_grocery.png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "패션관",
+      "full_text": "패션관",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_edit.png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "뷰티관",
+      "full_text": "뷰티관",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_beauty.png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "이머징관",
+      "full_text": "이머징관",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_attag(1).png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "리빙관",
+      "full_text": "리빙관",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_living.png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "홍태준",
+      "full_text": "홍태준\n오지영\n김지현\n배지연\n이민경\n박찬용\n이이담\n오드리\n이슬아 이훤\n박태윤\n유지혜\n콜미치",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/Banner_Img1_홍태준(4).png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    }
+  ],
+  "products": [],
+  "error": null,
+  "screenshot": "data/hyundai/2026/04/22/screenshot_1050.png"
+}
