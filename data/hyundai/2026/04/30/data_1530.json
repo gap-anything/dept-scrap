@@ -1,0 +1,81 @@
+{
+  "store_id": "hyundai",
+  "store_name": "현대백화점",
+  "collected_at": "2026-04-30T15:30:03.024998+00:00",
+  "url": "https://hi.thehyundai.com",
+  "promotions": [
+    {
+      "title": "앱을 설치하면 훨씬 더 편리하게 사용할 수 있어요.\n\n앱 다운로드",
+      "full_text": "앱을 설치하면 훨씬 더 편리하게 사용할 수 있어요.\n\n앱 다운로드",
+      "link": "",
+      "image": "/favicon.png",
+      "selector": "[class*='Promotion']"
+    },
+    {
+      "title": "앱을 설치하면 훨씬 더 편리하게 사용할 수 있어요.",
+      "full_text": "앱을 설치하면 훨씬 더 편리하게 사용할 수 있어요.",
+      "link": "",
+      "image": "",
+      "selector": "[class*='Promotion']"
+    },
+    {
+      "title": "3Days",
+      "full_text": "3Days",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/3days_Icon_2.gif?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "현대식품관",
+      "full_text": "현대식품관",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_grocery.png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "패션관",
+      "full_text": "패션관",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_edit.png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "뷰티관",
+      "full_text": "뷰티관",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_beauty.png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "이머징관",
+      "full_text": "이머징관",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_attag(1).png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "리빙관",
+      "full_text": "리빙관",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_living.png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "프리미엄 미식, 선물 고민 끝",
+      "full_text": "프리미엄 미식, 선물 고민 끝\n뷰티 선물, 실패 없는 선택\n어린이날 선물, 미리 준비\n멘즈 에센셜 지금 필요한 것들\n애플 에어팟 지금이 타이밍\n크록스 요즘 다 신어요\n지오다노·후아유와 여름 준비 끝\n선물은 여기서, HiHi Gift\n몰튼브라운 월·수·금 핫딜\nDJI 오즈모 포켓4 드디어 출시",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/Banner_Img_premiumfood.png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "홍태준",
+      "full_text": "홍태준\n오지영\n김지현\n배지연\n이민경\n박찬용\n이이담\n오드리\n이슬아 이훤\n박태윤\n유지혜\n콜미치",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/Banner_Img1_홍태준(4).png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    }
+  ],
+  "products": [],
+  "error": null,
+  "screenshot": "data/hyundai/2026/04/30/screenshot_1530.png"
+}
