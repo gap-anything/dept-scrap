@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-05-05T00:12:12.711732+00:00",
+  "generated_at": "2026-05-05T07:35:19.242941+00:00",
   "stores": {
     "shinsegae": {
       "store_id": "shinsegae",
       "store_name": "신세계V",
-      "generated_at": "2026-05-05T00:12:12.662382+00:00",
-      "total_runs": 105,
+      "generated_at": "2026-05-05T07:35:19.199881+00:00",
+      "total_runs": 106,
       "first_collected": "2026-04-17T06:22:16.787782+00:00",
-      "last_collected": "2026-05-05T00:11:36.920370+00:00",
+      "last_collected": "2026-05-05T07:34:43.423888+00:00",
       "products": {
         "unique_total": 0,
         "avg_per_run": 0.0,
@@ -1667,16 +1667,21 @@
           "collected_at": "2026-05-05T00:11:36.920370+00:00",
           "products": 0,
           "promotions": 0
+        },
+        {
+          "collected_at": "2026-05-05T07:34:43.423888+00:00",
+          "products": 0,
+          "promotions": 0
         }
       ]
     },
     "hyundai": {
       "store_id": "hyundai",
       "store_name": "현대백화점",
-      "generated_at": "2026-05-05T00:12:12.672337+00:00",
-      "total_runs": 105,
+      "generated_at": "2026-05-05T07:35:19.207239+00:00",
+      "total_runs": 106,
       "first_collected": "2026-04-17T06:22:16.788156+00:00",
-      "last_collected": "2026-05-05T00:11:36.920683+00:00",
+      "last_collected": "2026-05-05T07:34:43.424526+00:00",
       "products": {
         "unique_total": 0,
         "avg_per_run": 0.0,
@@ -1686,7 +1691,7 @@
       },
       "promotions": {
         "unique_total": 14,
-        "avg_per_run": 8.5,
+        "avg_per_run": 8.4,
         "all": [
           {
             "title": "앱을 설치하면 훨씬 더 편리하게 사용할 수 있어요.\n\n앱 다운로드",
@@ -2328,16 +2333,21 @@
           "collected_at": "2026-05-05T00:11:36.920683+00:00",
           "products": 0,
           "promotions": 10
+        },
+        {
+          "collected_at": "2026-05-05T07:34:43.424526+00:00",
+          "products": 0,
+          "promotions": 0
         }
       ]
     },
     "lotte": {
       "store_id": "lotte",
       "store_name": "롯데온",
-      "generated_at": "2026-05-05T00:12:12.693163+00:00",
-      "total_runs": 105,
+      "generated_at": "2026-05-05T07:35:19.226393+00:00",
+      "total_runs": 106,
       "first_collected": "2026-04-17T06:22:16.789258+00:00",
-      "last_collected": "2026-05-05T00:11:36.921823+00:00",
+      "last_collected": "2026-05-05T07:34:43.425468+00:00",
       "products": {
         "unique_total": 0,
         "avg_per_run": 0.0,
@@ -2347,7 +2357,7 @@
       },
       "promotions": {
         "unique_total": 2730,
-        "avg_per_run": 65.8,
+        "avg_per_run": 65.1,
         "all": [
           {
             "title": "슈즈",
@@ -24715,6 +24725,11 @@
         },
         {
           "collected_at": "2026-05-05T00:11:36.921823+00:00",
+          "products": 0,
+          "promotions": 0
+        },
+        {
+          "collected_at": "2026-05-05T07:34:43.425468+00:00",
           "products": 0,
           "promotions": 0
         }
