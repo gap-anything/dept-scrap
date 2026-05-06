@@ -1,0 +1,81 @@
+{
+  "store_id": "hyundai",
+  "store_name": "현대백화점",
+  "collected_at": "2026-05-06T00:11:02.507632+00:00",
+  "url": "https://hi.thehyundai.com",
+  "promotions": [
+    {
+      "title": "앱을 설치하면 훨씬 더 편리하게 사용할 수 있어요.\n\n앱 다운로드",
+      "full_text": "앱을 설치하면 훨씬 더 편리하게 사용할 수 있어요.\n\n앱 다운로드",
+      "link": "",
+      "image": "/favicon.png",
+      "selector": "[class*='Promotion']"
+    },
+    {
+      "title": "앱을 설치하면 훨씬 더 편리하게 사용할 수 있어요.",
+      "full_text": "앱을 설치하면 훨씬 더 편리하게 사용할 수 있어요.",
+      "link": "",
+      "image": "",
+      "selector": "[class*='Promotion']"
+    },
+    {
+      "title": "3Days",
+      "full_text": "3Days",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/3days_Icon_4.gif?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "현대식품관",
+      "full_text": "현대식품관",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_grocery.png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "패션관",
+      "full_text": "패션관",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_edit.png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "뷰티관",
+      "full_text": "뷰티관",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_beauty.png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "이머징관",
+      "full_text": "이머징관",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_attag(1).png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "리빙관",
+      "full_text": "리빙관",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_living.png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "레져관",
+      "full_text": "레져관",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/active.png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "선물은 여기서, HiHi Gift",
+      "full_text": "선물은 여기서, HiHi Gift\n미리 준비하는 여름템\n시슬리 기프트\n큐체크\n가정의달 선물\n써스데이아일랜드 브랜드데이\n다이슨 에어랩 할인\nK2 미리 만나는 겨울 아이템",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/gift_ic.png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    }
+  ],
+  "products": [],
+  "error": null,
+  "screenshot": "data/hyundai/2026/05/06/screenshot_0011.png"
+}
