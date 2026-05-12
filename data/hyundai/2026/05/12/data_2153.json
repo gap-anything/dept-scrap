@@ -1,0 +1,88 @@
+{
+  "store_id": "hyundai",
+  "store_name": "현대백화점",
+  "collected_at": "2026-05-12T21:53:13.371810+00:00",
+  "url": "https://hi.thehyundai.com",
+  "promotions": [
+    {
+      "title": "앱 설치하고 최대 5,000 H.Point 받기\n\n앱 열기",
+      "full_text": "앱 설치하고 최대 5,000 H.Point 받기\n\n앱 열기",
+      "link": "",
+      "image": "/favicon.png",
+      "selector": "[class*='Promotion']"
+    },
+    {
+      "title": "앱 설치하고 최대 5,000 H.Point 받기",
+      "full_text": "앱 설치하고 최대 5,000 H.Point 받기",
+      "link": "",
+      "image": "",
+      "selector": "[class*='Promotion']"
+    },
+    {
+      "title": "최대 5,000 H.Point",
+      "full_text": "최대 5,000 H.Point",
+      "link": "",
+      "image": "",
+      "selector": "[class*='Promotion']"
+    },
+    {
+      "title": "앱 열기",
+      "full_text": "앱 열기",
+      "link": "",
+      "image": "",
+      "selector": "[class*='Promotion']"
+    },
+    {
+      "title": "현대식품관",
+      "full_text": "현대식품관",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_grocery.png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "패션관",
+      "full_text": "패션관",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_edit.png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "뷰티관",
+      "full_text": "뷰티관",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_beauty.png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "이머징관",
+      "full_text": "이머징관",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_attag(1).png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "리빙관",
+      "full_text": "리빙관",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_living.png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "레져관",
+      "full_text": "레져관",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/active.png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "아이더&네파 역시즌 70%",
+      "full_text": "아이더&네파 역시즌 70%\n아르마니뷰티 브랜드위크\n바스통, 5월의 데일리룩\n오일릴리 가정의달 특가\n월드컵 VIP 직관\n나이키 슈퍼 위크\n루메나 여름 가전 추천\n식품 브랜드위크",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/아이더네파_키워드.jpg?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    }
+  ],
+  "products": [],
+  "error": null,
+  "screenshot": "data/hyundai/2026/05/12/screenshot_2153.png"
+}
