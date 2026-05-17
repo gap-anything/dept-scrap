@@ -1,0 +1,67 @@
+{
+  "store_id": "hyundai",
+  "store_name": "현대백화점",
+  "collected_at": "2026-05-17T20:26:42.979922+00:00",
+  "url": "https://hi.thehyundai.com",
+  "promotions": [
+    {
+      "title": "패션위크",
+      "full_text": "패션위크",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/HiHi-FW-icon-01.gif?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "현대식품관",
+      "full_text": "현대식품관",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_grocery.png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "패션관",
+      "full_text": "패션관",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_edit.png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "뷰티관",
+      "full_text": "뷰티관",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_beauty.png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "이머징관",
+      "full_text": "이머징관",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_attag(1).png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "리빙관",
+      "full_text": "리빙관",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_living.png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "레져관",
+      "full_text": "레져관",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/active.png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "킬잇 시청자 투표 이벤트",
+      "full_text": "킬잇 시청자 투표 이벤트\n러닝 컬렉션\nApple Watch 할인\n헤지스 남성 할인\n리뷰 적립 5배 UP↑최대 1,400P\n샥즈 최대 15% 할인\n스페셜 멘즈 위크",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/killit_icon_banner.png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    }
+  ],
+  "products": [],
+  "error": null,
+  "screenshot": "data/hyundai/2026/05/17/screenshot_2026.png"
+}
