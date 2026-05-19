@@ -1,10 +1,10 @@
 {
   "store_id": "hyundai",
   "store_name": "현대백화점",
-  "generated_at": "2026-05-19T15:44:02.256522+00:00",
-  "total_runs": 180,
+  "generated_at": "2026-05-19T18:12:24.286990+00:00",
+  "total_runs": 181,
   "first_collected": "2026-04-17T06:22:16.788156+00:00",
-  "last_collected": "2026-05-19T15:43:26.457513+00:00",
+  "last_collected": "2026-05-19T18:11:48.195749+00:00",
   "products": {
     "unique_total": 0,
     "avg_per_run": 0.0,
@@ -21,40 +21,40 @@
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_grocery.png?SF=webp&AO=1",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-05-19T15:43:26.457513+00:00",
-        "appear_count": 171
+        "last_seen": "2026-05-19T18:11:48.195749+00:00",
+        "appear_count": 172
       },
       {
         "title": "패션관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_edit.png?SF=webp&AO=1",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-05-19T15:43:26.457513+00:00",
-        "appear_count": 171
+        "last_seen": "2026-05-19T18:11:48.195749+00:00",
+        "appear_count": 172
       },
       {
         "title": "뷰티관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_beauty.png?SF=webp&AO=1",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-05-19T15:43:26.457513+00:00",
-        "appear_count": 171
+        "last_seen": "2026-05-19T18:11:48.195749+00:00",
+        "appear_count": 172
       },
       {
         "title": "이머징관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_attag(1).png?SF=webp&AO=1",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-05-19T15:43:26.457513+00:00",
-        "appear_count": 171
+        "last_seen": "2026-05-19T18:11:48.195749+00:00",
+        "appear_count": 172
       },
       {
         "title": "리빙관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_living.png?SF=webp&AO=1",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-05-19T15:43:26.457513+00:00",
-        "appear_count": 171
+        "last_seen": "2026-05-19T18:11:48.195749+00:00",
+        "appear_count": 172
       },
       {
         "title": "앱을 설치하면 훨씬 더 편리하게 사용할 수 있어요.\n\n앱 다운로드",
@@ -85,8 +85,8 @@
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/active.png?SF=webp&AO=1",
         "first_seen": "2026-05-04T08:08:15.109184+00:00",
-        "last_seen": "2026-05-19T15:43:26.457513+00:00",
-        "appear_count": 74
+        "last_seen": "2026-05-19T18:11:48.195749+00:00",
+        "appear_count": 75
       },
       {
         "title": "3Days",
@@ -101,8 +101,8 @@
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/killit_icon_banner.png?SF=webp&AO=1",
         "first_seen": "2026-05-13T08:22:33.118720+00:00",
-        "last_seen": "2026-05-19T15:43:26.457513+00:00",
-        "appear_count": 39
+        "last_seen": "2026-05-19T18:11:48.195749+00:00",
+        "appear_count": 40
       },
       {
         "title": "선물은 여기서, HiHi Gift",
@@ -133,8 +133,8 @@
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/HiHi-FW-icon-01.gif?SF=webp&AO=1",
         "first_seen": "2026-05-17T16:04:27.423675+00:00",
-        "last_seen": "2026-05-19T15:43:26.457513+00:00",
-        "appear_count": 19
+        "last_seen": "2026-05-19T18:11:48.195749+00:00",
+        "appear_count": 20
       },
       {
         "title": "아이더&네파 역시즌 70%",
@@ -1085,6 +1085,11 @@
     },
     {
       "collected_at": "2026-05-19T15:43:26.457513+00:00",
+      "products": 0,
+      "promotions": 8
+    },
+    {
+      "collected_at": "2026-05-19T18:11:48.195749+00:00",
       "products": 0,
       "promotions": 8
     }
