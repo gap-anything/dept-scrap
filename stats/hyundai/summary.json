@@ -1,10 +1,10 @@
 {
   "store_id": "hyundai",
   "store_name": "현대백화점",
-  "generated_at": "2026-05-26T13:31:02.450741+00:00",
-  "total_runs": 245,
+  "generated_at": "2026-05-26T17:01:06.666544+00:00",
+  "total_runs": 246,
   "first_collected": "2026-04-17T06:22:16.788156+00:00",
-  "last_collected": "2026-05-26T13:30:26.643585+00:00",
+  "last_collected": "2026-05-26T17:00:30.841357+00:00",
   "products": {
     "unique_total": 0,
     "avg_per_run": 0.0,
@@ -21,32 +21,32 @@
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_grocery.png?SF=webp&AO=1",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-05-26T13:30:26.643585+00:00",
-        "appear_count": 232
+        "last_seen": "2026-05-26T17:00:30.841357+00:00",
+        "appear_count": 233
       },
       {
         "title": "뷰티관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_beauty.png?SF=webp&AO=1",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-05-26T13:30:26.643585+00:00",
-        "appear_count": 232
+        "last_seen": "2026-05-26T17:00:30.841357+00:00",
+        "appear_count": 233
       },
       {
         "title": "이머징관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_attag(1).png?SF=webp&AO=1",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-05-26T13:30:26.643585+00:00",
-        "appear_count": 232
+        "last_seen": "2026-05-26T17:00:30.841357+00:00",
+        "appear_count": 233
       },
       {
         "title": "리빙관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_living.png?SF=webp&AO=1",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-05-26T13:30:26.643585+00:00",
-        "appear_count": 232
+        "last_seen": "2026-05-26T17:00:30.841357+00:00",
+        "appear_count": 233
       },
       {
         "title": "패션관",
@@ -61,8 +61,8 @@
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/active.png?SF=webp&AO=1",
         "first_seen": "2026-05-04T08:08:15.109184+00:00",
-        "last_seen": "2026-05-26T13:30:26.643585+00:00",
-        "appear_count": 135
+        "last_seen": "2026-05-26T17:00:30.841357+00:00",
+        "appear_count": 136
       },
       {
         "title": "앱을 설치하면 훨씬 더 편리하게 사용할 수 있어요.\n\n앱 다운로드",
@@ -85,8 +85,8 @@
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/killit_icon_banner.png?SF=webp&AO=1",
         "first_seen": "2026-05-13T08:22:33.118720+00:00",
-        "last_seen": "2026-05-26T13:30:26.643585+00:00",
-        "appear_count": 100
+        "last_seen": "2026-05-26T17:00:30.841357+00:00",
+        "appear_count": 101
       },
       {
         "title": "홍태준",
@@ -101,16 +101,16 @@
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/HiHi-FW-icon-01.gif?SF=webp&AO=1",
         "first_seen": "2026-05-17T16:04:27.423675+00:00",
-        "last_seen": "2026-05-26T13:30:26.643585+00:00",
-        "appear_count": 80
+        "last_seen": "2026-05-26T17:00:30.841357+00:00",
+        "appear_count": 81
       },
       {
         "title": "컨템패션관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_edit.png?SF=webp&AO=1",
         "first_seen": "2026-05-20T10:02:27.157269+00:00",
-        "last_seen": "2026-05-26T13:30:26.643585+00:00",
-        "appear_count": 56
+        "last_seen": "2026-05-26T17:00:30.841357+00:00",
+        "appear_count": 57
       },
       {
         "title": "3Days",
@@ -189,8 +189,8 @@
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/Kids_Home.png?SF=webp&AO=1",
         "first_seen": "2026-05-26T01:27:45.841497+00:00",
-        "last_seen": "2026-05-26T13:30:26.643585+00:00",
-        "appear_count": 4
+        "last_seen": "2026-05-26T17:00:30.841357+00:00",
+        "appear_count": 5
       },
       {
         "title": "드리미 오늘만 이 가격",
@@ -1426,6 +1426,11 @@
     },
     {
       "collected_at": "2026-05-26T13:30:26.643585+00:00",
+      "products": 0,
+      "promotions": 9
+    },
+    {
+      "collected_at": "2026-05-26T17:00:30.841357+00:00",
       "products": 0,
       "promotions": 9
     }
