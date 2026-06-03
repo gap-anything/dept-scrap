@@ -1,10 +1,10 @@
 {
   "store_id": "shinsegae",
   "store_name": "신세계V",
-  "generated_at": "2026-06-03T12:23:09.408647+00:00",
-  "total_runs": 311,
+  "generated_at": "2026-06-03T17:30:19.106975+00:00",
+  "total_runs": 312,
   "first_collected": "2026-04-17T06:22:16.787782+00:00",
-  "last_collected": "2026-06-03T12:22:33.509901+00:00",
+  "last_collected": "2026-06-03T17:29:43.255296+00:00",
   "products": {
     "unique_total": 0,
     "avg_per_run": 0.0,
@@ -14,7 +14,7 @@
   },
   "promotions": {
     "unique_total": 140,
-    "avg_per_run": 0.5,
+    "avg_per_run": 0.4,
     "all": [
       {
         "title": "GCUT",
@@ -2692,6 +2692,11 @@
     },
     {
       "collected_at": "2026-06-03T12:22:33.509901+00:00",
+      "products": 0,
+      "promotions": 0
+    },
+    {
+      "collected_at": "2026-06-03T17:29:43.255296+00:00",
       "products": 0,
       "promotions": 0
     }
