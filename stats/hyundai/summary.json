@@ -1,10 +1,10 @@
 {
   "store_id": "hyundai",
   "store_name": "현대백화점",
-  "generated_at": "2026-06-06T14:04:24.340558+00:00",
-  "total_runs": 335,
+  "generated_at": "2026-06-06T15:54:39.461901+00:00",
+  "total_runs": 336,
   "first_collected": "2026-04-17T06:22:16.788156+00:00",
-  "last_collected": "2026-06-06T14:03:48.505843+00:00",
+  "last_collected": "2026-06-06T15:54:03.687967+00:00",
   "products": {
     "unique_total": 0,
     "avg_per_run": 0.0,
@@ -21,40 +21,40 @@
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_grocery.png?SF=webp&AO=1",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-06-06T14:03:48.505843+00:00",
-        "appear_count": 312
+        "last_seen": "2026-06-06T15:54:03.687967+00:00",
+        "appear_count": 313
       },
       {
         "title": "뷰티관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_beauty.png?SF=webp&AO=1",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-06-06T14:03:48.505843+00:00",
-        "appear_count": 312
+        "last_seen": "2026-06-06T15:54:03.687967+00:00",
+        "appear_count": 313
       },
       {
         "title": "이머징관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_attag(1).png?SF=webp&AO=1",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-06-06T14:03:48.505843+00:00",
-        "appear_count": 312
+        "last_seen": "2026-06-06T15:54:03.687967+00:00",
+        "appear_count": 313
       },
       {
         "title": "리빙관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_living.png?SF=webp&AO=1",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-06-06T14:03:48.505843+00:00",
-        "appear_count": 312
+        "last_seen": "2026-06-06T15:54:03.687967+00:00",
+        "appear_count": 313
       },
       {
         "title": "레져관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/active.png?SF=webp&AO=1",
         "first_seen": "2026-05-04T08:08:15.109184+00:00",
-        "last_seen": "2026-06-06T14:03:48.505843+00:00",
-        "appear_count": 215
+        "last_seen": "2026-06-06T15:54:03.687967+00:00",
+        "appear_count": 216
       },
       {
         "title": "패션관",
@@ -69,8 +69,8 @@
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_edit.png?SF=webp&AO=1",
         "first_seen": "2026-05-20T10:02:27.157269+00:00",
-        "last_seen": "2026-06-06T14:03:48.505843+00:00",
-        "appear_count": 136
+        "last_seen": "2026-06-06T15:54:03.687967+00:00",
+        "appear_count": 137
       },
       {
         "title": "앱을 설치하면 훨씬 더 편리하게 사용할 수 있어요.\n\n앱 다운로드",
@@ -117,8 +117,8 @@
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/Kids_Home.png?SF=webp&AO=1",
         "first_seen": "2026-05-26T01:27:45.841497+00:00",
-        "last_seen": "2026-06-06T14:03:48.505843+00:00",
-        "appear_count": 84
+        "last_seen": "2026-06-06T15:54:03.687967+00:00",
+        "appear_count": 85
       },
       {
         "title": "3Days",
@@ -133,16 +133,16 @@
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/SummerChance_btn_circle01.gif?SF=webp&AO=1",
         "first_seen": "2026-05-31T15:52:49.858221+00:00",
-        "last_seen": "2026-06-06T14:03:48.505843+00:00",
-        "appear_count": 41
+        "last_seen": "2026-06-06T15:54:03.687967+00:00",
+        "appear_count": 42
       },
       {
         "title": "COS 여름 캠페인",
         "link": "",
         "image": "https://image.thehyundai.com/dp/psm/2026/05/27/155343/140x140.jpg?SF=webp&AO=1",
         "first_seen": "2026-06-01T07:09:47.447360+00:00",
-        "last_seen": "2026-06-06T14:03:48.505843+00:00",
-        "appear_count": 35
+        "last_seen": "2026-06-06T15:54:03.687967+00:00",
+        "appear_count": 36
       },
       {
         "title": "리뷰 적립 5배 UP↑최대 1,400P",
@@ -1908,6 +1908,11 @@
     },
     {
       "collected_at": "2026-06-06T14:03:48.505843+00:00",
+      "products": 0,
+      "promotions": 9
+    },
+    {
+      "collected_at": "2026-06-06T15:54:03.687967+00:00",
       "products": 0,
       "promotions": 9
     }
