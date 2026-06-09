@@ -1,10 +1,10 @@
 {
   "store_id": "lotte",
   "store_name": "롯데온",
-  "generated_at": "2026-06-09T12:13:15.227017+00:00",
-  "total_runs": 363,
+  "generated_at": "2026-06-09T15:45:30.329158+00:00",
+  "total_runs": 364,
   "first_collected": "2026-04-17T06:22:16.789258+00:00",
-  "last_collected": "2026-06-09T12:12:39.171295+00:00",
+  "last_collected": "2026-06-09T15:44:54.431999+00:00",
   "products": {
     "unique_total": 0,
     "avg_per_run": 0.0,
@@ -14,7 +14,7 @@
   },
   "promotions": {
     "unique_total": 7227,
-    "avg_per_run": 51.7,
+    "avg_per_run": 51.6,
     "all": [
       {
         "title": "슈즈",
@@ -57835,230 +57835,6 @@
     ],
     "new_promotions": [
       {
-        "title": "2롯데리조트속초",
-        "link": "",
-        "image": "",
-        "first_seen": "2026-06-09T04:49:04.768982+00:00",
-        "last_seen": "2026-06-09T04:49:04.768982+00:00",
-        "appear_count": 1
-      },
-      {
-        "title": "3닌텐도스위치2",
-        "link": "",
-        "image": "",
-        "first_seen": "2026-06-09T04:49:04.768982+00:00",
-        "last_seen": "2026-06-09T04:49:04.768982+00:00",
-        "appear_count": 1
-      },
-      {
-        "title": "4디디에두보",
-        "link": "",
-        "image": "",
-        "first_seen": "2026-06-09T04:49:04.768982+00:00",
-        "last_seen": "2026-06-09T04:49:04.768982+00:00",
-        "appear_count": 1
-      },
-      {
-        "title": "5kbo",
-        "link": "",
-        "image": "",
-        "first_seen": "2026-06-09T04:49:04.768982+00:00",
-        "last_seen": "2026-06-09T04:49:04.768982+00:00",
-        "appear_count": 1
-      },
-      {
-        "title": "6오르시떼",
-        "link": "",
-        "image": "",
-        "first_seen": "2026-06-09T04:49:04.768982+00:00",
-        "last_seen": "2026-06-09T04:49:04.768982+00:00",
-        "appear_count": 1
-      },
-      {
-        "title": "7kbo디즈니",
-        "link": "",
-        "image": "",
-        "first_seen": "2026-06-09T04:49:04.768982+00:00",
-        "last_seen": "2026-06-09T04:49:04.768982+00:00",
-        "appear_count": 1
-      },
-      {
-        "title": "8해피프린스",
-        "link": "",
-        "image": "",
-        "first_seen": "2026-06-09T04:49:04.768982+00:00",
-        "last_seen": "2026-06-09T04:49:04.768982+00:00",
-        "appear_count": 1
-      },
-      {
-        "title": "9블루독베이비 11",
-        "link": "",
-        "image": "",
-        "first_seen": "2026-06-09T04:49:04.768982+00:00",
-        "last_seen": "2026-06-09T04:49:04.768982+00:00",
-        "appear_count": 1
-      },
-      {
-        "title": "10롱샴 1",
-        "link": "",
-        "image": "",
-        "first_seen": "2026-06-09T04:49:04.768982+00:00",
-        "last_seen": "2026-06-09T04:49:04.768982+00:00",
-        "appear_count": 1
-      },
-      {
-        "title": "11드래곤디퓨전 53",
-        "link": "",
-        "image": "",
-        "first_seen": "2026-06-09T04:49:04.768982+00:00",
-        "last_seen": "2026-06-09T04:49:04.768982+00:00",
-        "appear_count": 1
-      },
-      {
-        "title": "12베베드피노 2",
-        "link": "",
-        "image": "",
-        "first_seen": "2026-06-09T04:49:04.768982+00:00",
-        "last_seen": "2026-06-09T04:49:04.768982+00:00",
-        "appear_count": 1
-      },
-      {
-        "title": "13블루독 58",
-        "link": "",
-        "image": "",
-        "first_seen": "2026-06-09T04:49:04.768982+00:00",
-        "last_seen": "2026-06-09T04:49:04.768982+00:00",
-        "appear_count": 1
-      },
-      {
-        "title": "14아디다스메리제인 71",
-        "link": "",
-        "image": "",
-        "first_seen": "2026-06-09T04:49:04.768982+00:00",
-        "last_seen": "2026-06-09T04:49:04.768982+00:00",
-        "appear_count": 1
-      },
-      {
-        "title": "15뉴발란스티셔츠New",
-        "link": "",
-        "image": "",
-        "first_seen": "2026-06-09T04:49:04.768982+00:00",
-        "last_seen": "2026-06-09T04:49:04.768982+00:00",
-        "appear_count": 1
-      },
-      {
-        "title": "16보니스팍스 67",
-        "link": "",
-        "image": "",
-        "first_seen": "2026-06-09T04:49:04.768982+00:00",
-        "last_seen": "2026-06-09T04:49:04.768982+00:00",
-        "appear_count": 1
-      },
-      {
-        "title": "17롯데월드 9",
-        "link": "",
-        "image": "",
-        "first_seen": "2026-06-09T04:49:04.768982+00:00",
-        "last_seen": "2026-06-09T04:49:04.768982+00:00",
-        "appear_count": 1
-      },
-      {
-        "title": "18고야드생루이백 6",
-        "link": "",
-        "image": "",
-        "first_seen": "2026-06-09T04:49:04.768982+00:00",
-        "last_seen": "2026-06-09T04:49:04.768982+00:00",
-        "appear_count": 1
-      },
-      {
-        "title": "19스트럭처26New",
-        "link": "",
-        "image": "",
-        "first_seen": "2026-06-09T04:49:04.768982+00:00",
-        "last_seen": "2026-06-09T04:49:04.768982+00:00",
-        "appear_count": 1
-      },
-      {
-        "title": "21슈슈앤크라New",
-        "link": "",
-        "image": "",
-        "first_seen": "2026-06-09T04:49:04.768982+00:00",
-        "last_seen": "2026-06-09T04:49:04.768982+00:00",
-        "appear_count": 1
-      },
-      {
-        "title": "24쉬즈미스 49",
-        "link": "",
-        "image": "",
-        "first_seen": "2026-06-09T04:49:04.768982+00:00",
-        "last_seen": "2026-06-09T04:49:04.768982+00:00",
-        "appear_count": 1
-      },
-      {
-        "title": "25샤넬립 6",
-        "link": "",
-        "image": "",
-        "first_seen": "2026-06-09T04:49:04.768982+00:00",
-        "last_seen": "2026-06-09T04:49:04.768982+00:00",
-        "appear_count": 1
-      },
-      {
-        "title": "26경주월드 10",
-        "link": "",
-        "image": "",
-        "first_seen": "2026-06-09T04:49:04.768982+00:00",
-        "last_seen": "2026-06-09T04:49:04.768982+00:00",
-        "appear_count": 1
-      },
-      {
-        "title": "27래쉬가드 45",
-        "link": "",
-        "image": "",
-        "first_seen": "2026-06-09T04:49:04.768982+00:00",
-        "last_seen": "2026-06-09T04:49:04.768982+00:00",
-        "appear_count": 1
-      },
-      {
-        "title": "28설화수 56",
-        "link": "",
-        "image": "",
-        "first_seen": "2026-06-09T04:49:04.768982+00:00",
-        "last_seen": "2026-06-09T04:49:04.768982+00:00",
-        "appear_count": 1
-      },
-      {
-        "title": "29더아이잗New",
-        "link": "",
-        "image": "",
-        "first_seen": "2026-06-09T04:49:04.768982+00:00",
-        "last_seen": "2026-06-09T04:49:04.768982+00:00",
-        "appear_count": 1
-      },
-      {
-        "title": "AMT X 마마조\n상반기 최대혜택 공구\n구매금액별 & 랜덤추첨 사은품",
-        "link": "",
-        "image": "https://contents.lotteon.com/display/dshoplnk/13331/2/M001313/804941/P77ED8C28832E4322DCDD0EC69E8F2EBDC4E98F2FAC4452BE2E0D43D7190EF983/file/dims/format/webp",
-        "first_seen": "2026-06-09T04:49:04.768982+00:00",
-        "last_seen": "2026-06-09T04:49:04.768982+00:00",
-        "appear_count": 1
-      },
-      {
-        "title": "아식스\n신규모델 런칭\nGEL-SERIES 외",
-        "link": "",
-        "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=",
-        "first_seen": "2026-06-09T04:49:04.768982+00:00",
-        "last_seen": "2026-06-09T04:49:04.768982+00:00",
-        "appear_count": 1
-      },
-      {
-        "title": "AMT",
-        "link": "",
-        "image": "https://contents.lotteon.com/display/dshoplnk/13331/2/M000026/805243/P7CF8E5628C9FF77AA32986769B710094A2B5A4E7F951AC12941DC36EB98528C0/file/dims/optimize/format/webp",
-        "first_seen": "2026-06-09T04:49:04.768982+00:00",
-        "last_seen": "2026-06-09T04:49:04.768982+00:00",
-        "appear_count": 1
-      },
-      {
         "title": "30디올 15",
         "link": "",
         "image": "",
@@ -60073,6 +59849,11 @@
     },
     {
       "collected_at": "2026-06-09T12:12:39.171295+00:00",
+      "products": 0,
+      "promotions": 0
+    },
+    {
+      "collected_at": "2026-06-09T15:44:54.431999+00:00",
       "products": 0,
       "promotions": 0
     }
