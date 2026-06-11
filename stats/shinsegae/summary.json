@@ -1,10 +1,10 @@
 {
   "store_id": "shinsegae",
   "store_name": "신세계V",
-  "generated_at": "2026-06-11T13:05:46.065945+00:00",
-  "total_runs": 378,
+  "generated_at": "2026-06-11T17:09:31.949121+00:00",
+  "total_runs": 379,
   "first_collected": "2026-04-17T06:22:16.787782+00:00",
-  "last_collected": "2026-06-11T13:05:10.250375+00:00",
+  "last_collected": "2026-06-11T17:08:56.127861+00:00",
   "products": {
     "unique_total": 0,
     "avg_per_run": 0.0,
@@ -3977,24 +3977,7 @@
         "appear_count": 1
       }
     ],
-    "new_promotions": [
-      {
-        "title": "30주년을 기념하는 여름 컬렉션. 일상과 필드를 넘나드는 스타일을 만나보세요",
-        "link": "",
-        "image": "",
-        "first_seen": "2026-06-11T04:55:37.157521+00:00",
-        "last_seen": "2026-06-11T04:55:37.157521+00:00",
-        "appear_count": 1
-      },
-      {
-        "title": "ILAIL\n케이블 슬리브리스 니트 탑\n52% 114,240\nILAIL\n배색 오픈 카라 니트 드레스\n60% 1",
-        "link": "",
-        "image": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/640/250321069252640.jpg?RS=290&SP=1",
-        "first_seen": "2026-06-11T04:55:37.157521+00:00",
-        "last_seen": "2026-06-11T04:55:37.157521+00:00",
-        "appear_count": 1
-      }
-    ]
+    "new_promotions": []
   },
   "run_history": [
     {
@@ -5884,6 +5867,11 @@
     },
     {
       "collected_at": "2026-06-11T13:05:10.250375+00:00",
+      "products": 0,
+      "promotions": 0
+    },
+    {
+      "collected_at": "2026-06-11T17:08:56.127861+00:00",
       "products": 0,
       "promotions": 0
     }
