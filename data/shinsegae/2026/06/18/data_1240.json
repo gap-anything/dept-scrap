@@ -1,0 +1,879 @@
+{
+  "store_id": "shinsegae",
+  "store_name": "신세계V",
+  "collected_at": "2026-06-18T12:40:13.999540+00:00",
+  "url": "https://www.shinsegaev.com",
+  "promotions": [
+    {
+      "title": "최대 30% 페이백 혜택 확인하기",
+      "full_text": "최대 30% 페이백 혜택 확인하기",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "SAINT JAMES & more",
+      "full_text": "SAINT JAMES & more\n잘 고른 여름의 한 장\n서머 티셔츠 데이\n단 하루, 최대 70% 할인 다채로운 컬러와 매일 다른 스타일\nBUY NOW",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1010/541/00/260600000732541_20260610132914.jpg?RS=1920&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "잘 고른 여름의 한 장\n서머 티셔츠 데이",
+      "full_text": "잘 고른 여름의 한 장\n서머 티셔츠 데이",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "단 하루, 최대 70% 할인 다채로운 컬러와 매일 다른 스타일",
+      "full_text": "단 하루, 최대 70% 할인 다채로운 컬러와 매일 다른 스타일",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "BUY NOW",
+      "full_text": "BUY NOW",
+      "link": "javascript:void(0);",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "JAJU",
+      "full_text": "JAJU\n여름의 가벼운 일상\n자주 어패럴 데이\n단 하루, 최대 20% 할인 + 시즌오프 + 15% 페이백 + 쿠폰\nBUY NOW",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1010/759/00/260600000732759_20260610143225.jpg?RS=1920&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "여름의 가벼운 일상\n자주 어패럴 데이",
+      "full_text": "여름의 가벼운 일상\n자주 어패럴 데이",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "단 하루, 최대 20% 할인 + 시즌오프 + 15% 페이백 + 쿠폰",
+      "full_text": "단 하루, 최대 20% 할인 + 시즌오프 + 15% 페이백 + 쿠폰",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "할리데이비슨 컬렉션스®",
+      "full_text": "할리데이비슨 컬렉션스®\n자유로움의 상징\n할리데이비슨 데이\n단 하루, 인기 아이템 30% 페이백 + 스페셜 쿠폰\nBUY NOW",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1010/426/00/260600000733426_20260618153951.jpg?cVer=18033951&RS=1920&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "자유로움의 상징\n할리데이비슨 데이",
+      "full_text": "자유로움의 상징\n할리데이비슨 데이",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "단 하루, 인기 아이템 30% 페이백 + 스페셜 쿠폰",
+      "full_text": "단 하루, 인기 아이템 30% 페이백 + 스페셜 쿠폰",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "JESUS ON THE WATER & more",
+      "full_text": "JESUS ON THE WATER & more\n가볍고 산뜻한 발걸음\n여름 슈즈 데이\n단 하루, 최대 70% 할인 + 쿠폰 + 페이백\nBUY NOW",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1010/433/00/260600000733433_20260611095635.jpg?RS=1920&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "가볍고 산뜻한 발걸음\n여름 슈즈 데이",
+      "full_text": "가볍고 산뜻한 발걸음\n여름 슈즈 데이",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "단 하루, 최대 70% 할인 + 쿠폰 + 페이백",
+      "full_text": "단 하루, 최대 70% 할인 + 쿠폰 + 페이백",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "Santa Maria Novella",
+      "full_text": "Santa Maria Novella\n단 7시간 한정\n심야 혜택\n산타마리아노벨라, 전 상품 30% 할인 + 무제한 15% 페이백\nBUY NOW",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1010/339/00/260600000733339_20260611091234.jpg?RS=1920&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "단 7시간 한정\n심야 혜택",
+      "full_text": "단 7시간 한정\n심야 혜택",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "산타마리아노벨라, 전 상품 30% 할인 + 무제한 15% 페이백",
+      "full_text": "산타마리아노벨라, 전 상품 30% 할인 + 무제한 15% 페이백",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "DJI & more",
+      "full_text": "DJI & more\n계절의 선명한 순간\n카메라 셀렉션\n모든 크리에이터를 위한 카메라, 최대 23% 할인 + ~15% 쿠폰 + ~15% 페이백\nBUY NOW",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1010/348/00/260600000733348_20260611091416.jpg?RS=1920&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "계절의 선명한 순간\n카메라 셀렉션",
+      "full_text": "계절의 선명한 순간\n카메라 셀렉션",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "모든 크리에이터를 위한 카메라, 최대 23% 할인 + ~15% 쿠폰 + ~15% 페이백",
+      "full_text": "모든 크리에이터를 위한 카메라, 최대 23% 할인 + ~15% 쿠폰 + ~15% 페이백",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "LAURA MERCIER & more",
+      "full_text": "LAURA MERCIER & more\n여름 뷰티의 모든 것\n스킨&메이크업\n로라메르시에/연작/비디비치 & more ~60% + 15% 페이백 + 디럭스 사은품\nBUY NOW",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1010/926/00/260600000732926_20260610154639.jpg?RS=1920&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "여름 뷰티의 모든 것\n스킨&메이크업",
+      "full_text": "여름 뷰티의 모든 것\n스킨&메이크업",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "로라메르시에/연작/비디비치 & more ~60% + 15% 페이백 + 디럭스 사은품",
+      "full_text": "로라메르시에/연작/비디비치 & more ~60% + 15% 페이백 + 디럭스 사은품",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "UGG",
+      "full_text": "UGG\n어그와 사뿐하게\n걷는 여름날\n서머 베스트 셀렉션, 계절의 산뜻함을 함께 걸어요\nBUY NOW",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1010/201/00/260600000732201_20260610095449.jpg?RS=1920&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "어그와 사뿐하게\n걷는 여름날",
+      "full_text": "어그와 사뿐하게\n걷는 여름날",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "서머 베스트 셀렉션, 계절의 산뜻함을 함께 걸어요",
+      "full_text": "서머 베스트 셀렉션, 계절의 산뜻함을 함께 걸어요",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "GALAXY & more",
+      "full_text": "GALAXY & more\n한눈에 보는\n여름 남자 스타일링\n신상 특가/아울렛 클리어런스, ~80% 할인 + 쿠폰 + 페이백 혜택\nBUY NOW",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1010/625/00/260600000732625_20260610135057.jpg?RS=1920&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "한눈에 보는\n여름 남자 스타일링",
+      "full_text": "한눈에 보는\n여름 남자 스타일링",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "신상 특가/아울렛 클리어런스, ~80% 할인 + 쿠폰 + 페이백 혜택",
+      "full_text": "신상 특가/아울렛 클리어런스, ~80% 할인 + 쿠폰 + 페이백 혜택",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "DS&DURGA & more",
+      "full_text": "DS&DURGA & more\n짙은 여름 무드를\n남겨줄 깊은 향기\n메모파리/디에스앤더가 & more, 10% + 12% 중복 쿠폰팩 + 최대 15% 페이백\nBUY NOW",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1010/296/00/260600000732296_20260610102557.jpg?RS=1920&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "짙은 여름 무드를\n남겨줄 깊은 향기",
+      "full_text": "짙은 여름 무드를\n남겨줄 깊은 향기",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "메모파리/디에스앤더가 & more, 10% + 12% 중복 쿠폰팩 + 최대 15% 페이백",
+      "full_text": "메모파리/디에스앤더가 & more, 10% + 12% 중복 쿠폰팩 + 최대 15% 페이백",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "피렌체\n정원으로\n향기로운 초대",
+      "full_text": "피렌체\n정원으로\n향기로운 초대",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "무제한 15% 페이백 + 전 품목 ~16% 할인 + 8종 사은품",
+      "full_text": "무제한 15% 페이백 + 전 품목 ~16% 할인 + 8종 사은품",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "Santa Maria Novella\n로사 가데니아 오드코롱 50ml\n30% 101,500\nSanta Mari",
+      "full_text": "Santa Maria Novella\n로사 가데니아 오드코롱 50ml\n30% 101,500\nSanta Maria Novella\n토니코 페르 라 펠레 250ml (영양토너)\n30% 48,300\nSanta Maria Novella\n아쿠아 디 로즈 500ml (장미수 토너)\n30% 49,000",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/655/260415153475655.jpg?RS=290&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "J.LINDEBERG",
+      "full_text": "J.LINDEBERG\n필드 위에서\n완성되는\n여름을 만나다\n제이린드버그를 만나는 스마트한 기회, 15% 페이백 + 쿠폰 혜택\nBUY NOW\nJ.LINDEBERG\n[Women] 소프트 비 폴로\n28% 186,480\nJ.LINDEBERG\n[Men] 키트 팬츠\n28% 258,480\nJ.LINDEBERG\n[UNI] 스몰 브리지 캡\n37% 81,270",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1010/366/00/260600000731366_20260605094719.jpg?RS=750&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "필드 위에서\n완성되는\n여름을 만나다",
+      "full_text": "필드 위에서\n완성되는\n여름을 만나다",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "제이린드버그를 만나는 스마트한 기회, 15% 페이백 + 쿠폰 혜택",
+      "full_text": "제이린드버그를 만나는 스마트한 기회, 15% 페이백 + 쿠폰 혜택",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "J.LINDEBERG\n[Women] 소프트 비 폴로\n28% 186,480\nJ.LINDEBERG\n[Men] 키",
+      "full_text": "J.LINDEBERG\n[Women] 소프트 비 폴로\n28% 186,480\nJ.LINDEBERG\n[Men] 키트 팬츠\n28% 258,480\nJ.LINDEBERG\n[UNI] 스몰 브리지 캡\n37% 81,270",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/948/250416074584948.jpg?RS=290&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "VOICE OF VOICES",
+      "full_text": "VOICE OF VOICES\n여름이 부쩍\n가까워짐을\n느낄 때\n무제한 15% 페이백 + 26SS 시즌오프 30%\nBUY NOW\nVOICE OF VOICES\n컬러 블록 후디드 베스트\n30% 230,300\nVOICE OF VOICES\n레이스 슬리브리스 블라우스\n259,000\nVOICE OF VOICES\n레이스 H라인 스트링 스커트\n299,000",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1010/350/00/260500000728350_20260611123040.jpg?cVer=11123040&RS=750&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "여름이 부쩍\n가까워짐을\n느낄 때",
+      "full_text": "여름이 부쩍\n가까워짐을\n느낄 때",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "무제한 15% 페이백 + 26SS 시즌오프 30%",
+      "full_text": "무제한 15% 페이백 + 26SS 시즌오프 30%",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "VOICE OF VOICES\n컬러 블록 후디드 베스트\n30% 230,300\nVOICE OF VOICES\n레이",
+      "full_text": "VOICE OF VOICES\n컬러 블록 후디드 베스트\n30% 230,300\nVOICE OF VOICES\n레이스 슬리브리스 블라우스\n259,000\nVOICE OF VOICES\n레이스 H라인 스트링 스커트\n299,000",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/971/260414153306971.jpg?RS=290&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "BYREDO",
+      "full_text": "BYREDO\n향으로 새기는 여름\n바이레도 위크\n15% 페이백 + 쿠폰팩 + 상품별 사은품 증정\nBUY NOW",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1010/267/00/260600000732267_20260610101811.jpg?RS=1920&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "향으로 새기는 여름\n바이레도 위크",
+      "full_text": "향으로 새기는 여름\n바이레도 위크",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "15% 페이백 + 쿠폰팩 + 상품별 사은품 증정",
+      "full_text": "15% 페이백 + 쿠폰팩 + 상품별 사은품 증정",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "FREDERIC MALLE & more",
+      "full_text": "FREDERIC MALLE & more\n프레데릭 말\n& 킬리안 위크\n취향을 완성하는 예술적인 향, 전상품 10% 쿠폰 + 7% 페이백\nBUY NOW",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1010/014/00/260300000704014_20260610170632.jpg?cVer=10050632&RS=1920&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "프레데릭 말\n& 킬리안 위크",
+      "full_text": "프레데릭 말\n& 킬리안 위크",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "취향을 완성하는 예술적인 향, 전상품 10% 쿠폰 + 7% 페이백",
+      "full_text": "취향을 완성하는 예술적인 향, 전상품 10% 쿠폰 + 7% 페이백",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "BOBO CHOSES & more",
+      "full_text": "BOBO CHOSES & more\n아이의 여름 옷장\n채울 시간\n신상부터 클리어런스까지, ~96% 할인 + 쿠폰 + 페이백\nBUY NOW",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1010/468/00/260600000733468_20260611100433.jpg?RS=1920&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "아이의 여름 옷장\n채울 시간",
+      "full_text": "아이의 여름 옷장\n채울 시간",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "신상부터 클리어런스까지, ~96% 할인 + 쿠폰 + 페이백",
+      "full_text": "신상부터 클리어런스까지, ~96% 할인 + 쿠폰 + 페이백",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "EDITORIAL",
+      "full_text": "EDITORIAL\n신세계V\n서머 세일\n혜택 모아보기\n똑똑하게 누릴수록 서머 세일의 즐거움은 배가 되죠. 페이백부터 선착순 혜택, 그리고 쿠폰팩까지. 상반기를 마무리할 압도적인 혜택을 남김없이 챙겨 보세요. 에디터가 섬세하게 고른 추천 아이템도 함께 살펴보세요.\nLEARN MORE\nEX NIHILO\n러스트 인 파라다이스 오 드 퍼퓸 100ml\n14% 418,",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/8910/806/10/260600000733806_20260616154356.jpg?cVer=16034356&RS=750&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "신세계V\n서머 세일\n혜택 모아보기",
+      "full_text": "신세계V\n서머 세일\n혜택 모아보기",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "똑똑하게 누릴수록 서머 세일의 즐거움은 배가 되죠. 페이백부터 선착순 혜택, 그리고 쿠폰팩까지. 상반기를 마",
+      "full_text": "똑똑하게 누릴수록 서머 세일의 즐거움은 배가 되죠. 페이백부터 선착순 혜택, 그리고 쿠폰팩까지. 상반기를 마무리할 압도적인 혜택을 남김없이 챙겨 보세요. 에디터가 섬세하게 고른 추천 아이템도 함께 살펴보세요.",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "LEARN MORE",
+      "full_text": "LEARN MORE",
+      "link": "javascript:void(0);",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "EX NIHILO\n러스트 인 파라다이스 오 드 퍼퓸 100ml\n14% 418,950\nODENSE\n오덴세 누프",
+      "full_text": "EX NIHILO\n러스트 인 파라다이스 오 드 퍼퓸 100ml\n14% 418,950\nODENSE\n오덴세 누프레임 에클라 4인조 20p\n15% 322,150\nSanta Maria Novella\n엔젤 디 피렌체 오드코롱 100ml\n30% 147,000",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/660/250523084205660.jpg?RS=290&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "LACOSTE & more",
+      "full_text": "LACOSTE & more\n활동적인 계절의\n시작을 함께\n러닝/애슬래저의 계절,\n~70% + 쿠폰 + ~15% 페이백\nBUY NOW",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1010/328/00/260600000733328_20260611091033.jpg?RS=600&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "활동적인 계절의\n시작을 함께",
+      "full_text": "활동적인 계절의\n시작을 함께",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "러닝/애슬래저의 계절,\n~70% + 쿠폰 + ~15% 페이백",
+      "full_text": "러닝/애슬래저의 계절,\n~70% + 쿠폰 + ~15% 페이백",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "VBC CASA & more",
+      "full_text": "VBC CASA & more\n그릇 하나로\n달라지는 분위기\n감각적인 테이블웨어 셀렉션,\n~77% + 15% 쿠폰 + ~15% 페이백\nBUY NOW",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1010/472/00/260600000733472_20260611100503.jpg?RS=600&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "그릇 하나로\n달라지는 분위기",
+      "full_text": "그릇 하나로\n달라지는 분위기",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "감각적인 테이블웨어 셀렉션,\n~77% + 15% 쿠폰 + ~15% 페이백",
+      "full_text": "감각적인 테이블웨어 셀렉션,\n~77% + 15% 쿠폰 + ~15% 페이백",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "LA PERVA",
+      "full_text": "LA PERVA\n럭셔리 홈케어\n라페르바\n나를 케어하는 시간,\n~50% + 15% 페이백 + 사은품\nBUY NOW",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1010/920/00/260600000732920_20260610154359.jpg?RS=600&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "럭셔리 홈케어\n라페르바",
+      "full_text": "럭셔리 홈케어\n라페르바",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "나를 케어하는 시간,\n~50% + 15% 페이백 + 사은품",
+      "full_text": "나를 케어하는 시간,\n~50% + 15% 페이백 + 사은품",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "ERDEM & more",
+      "full_text": "ERDEM & more\n컨템포러리\n아울렛 위크\n가볍게 준비하는 여름,\n~80% 할인 + 쿠폰\nBUY NOW",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1010/329/00/260600000733329_20260611091203.jpg?RS=600&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "컨템포러리\n아울렛 위크",
+      "full_text": "컨템포러리\n아울렛 위크",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "가볍게 준비하는 여름,\n~80% 할인 + 쿠폰",
+      "full_text": "가볍게 준비하는 여름,\n~80% 할인 + 쿠폰",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "MOLUN & more",
+      "full_text": "MOLUN & more\n가볍게 장만하는\n주얼리 & 워치\n스타일을 완성할 주얼리/워치 제안,\n~60% + ~20% 쿠폰 + ~15% 페이백\nBUY NOW",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1010/956/00/260600000732956_20260610160428.jpg?RS=600&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "가볍게 장만하는\n주얼리 & 워치",
+      "full_text": "가볍게 장만하는\n주얼리 & 워치",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "스타일을 완성할 주얼리/워치 제안,\n~60% + ~20% 쿠폰 + ~15% 페이백",
+      "full_text": "스타일을 완성할 주얼리/워치 제안,\n~60% + ~20% 쿠폰 + ~15% 페이백",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "LEGO",
+      "full_text": "LEGO\n인기 레고 아이템을\n특별한 혜택으로\n상상력을 깨우는 레고,\n~45% + 10% 쿠폰 + 15% 페이백\nBUY NOW",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1010/544/00/260600000733544_20260611105105.jpg?RS=600&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "인기 레고 아이템을\n특별한 혜택으로",
+      "full_text": "인기 레고 아이템을\n특별한 혜택으로",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "상상력을 깨우는 레고,\n~45% + 10% 쿠폰 + 15% 페이백",
+      "full_text": "상상력을 깨우는 레고,\n~45% + 10% 쿠폰 + 15% 페이백",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "OL 블럭 반팔셔츠 레드\n85,020",
+      "full_text": "OL 블럭 반팔셔츠 레드\n85,020",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/828/250429078151828.jpg?RS=70&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "아이엠 헤어오일\n19,600",
+      "full_text": "아이엠 헤어오일\n19,600",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/745/250620092028745.jpg?RS=70&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "TWO-WAY SHIRT JUMPSUIT (S26DJ7041PE)\n608,000",
+      "full_text": "TWO-WAY SHIRT JUMPSUIT (S26DJ7041PE)\n608,000",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/777/260410152569777.jpg?RS=70&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "DANA Gingham Blouse - Sky Blue\n126,720",
+      "full_text": "DANA Gingham Blouse - Sky Blue\n126,720",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/goods/org/114/260429156502114.jpg?RS=70&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "BANG & OLUFSEN",
+      "full_text": "BANG & OLUFSEN\n뱅앤올룹슨\n브랜드위크\n최대 12% 할인\n+ 10% 쿠폰 + 7% 페이백\nBUY NOW",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1010/277/00/260600000733277_20260610190525.jpg?RS=600&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "뱅앤올룹슨\n브랜드위크",
+      "full_text": "뱅앤올룹슨\n브랜드위크",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "최대 12% 할인\n+ 10% 쿠폰 + 7% 페이백",
+      "full_text": "최대 12% 할인\n+ 10% 쿠폰 + 7% 페이백",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "ALLSAINTS",
+      "full_text": "ALLSAINTS\n덜어낼수록\n깊어지는 스타일\n클린 라인과 뉴트럴 컬러의 조화,\n올세인츠만의 감각적인 여름 룩북\nBUY NOW",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1010/641/00/260600000733641_20260611124736.jpg?RS=600&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "덜어낼수록\n깊어지는 스타일",
+      "full_text": "덜어낼수록\n깊어지는 스타일",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "클린 라인과 뉴트럴 컬러의 조화,\n올세인츠만의 감각적인 여름 룩북",
+      "full_text": "클린 라인과 뉴트럴 컬러의 조화,\n올세인츠만의 감각적인 여름 룩북",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "HUGO BOSS",
+      "full_text": "HUGO BOSS\n유행 타지 않는\n클래식의 매력\n시대를 초월하는 클래식 실루엣,\n휴고 보스 ~55% + 쿠폰 + 페이백\nBUY NOW",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1010/613/00/260600000732613_20260610134538.jpg?RS=600&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "유행 타지 않는\n클래식의 매력",
+      "full_text": "유행 타지 않는\n클래식의 매력",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "시대를 초월하는 클래식 실루엣,\n휴고 보스 ~55% + 쿠폰 + 페이백",
+      "full_text": "시대를 초월하는 클래식 실루엣,\n휴고 보스 ~55% + 쿠폰 + 페이백",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "THALASPA",
+      "full_text": "THALASPA\n지친 나에게\n선물하는 휴식\n딸라스파 상반기 베스트 아이템 특가전,\n~30% + 7% 페이백 + 사은품\nBUY NOW",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1010/355/00/260400000716355_20260615090850.jpg?cVer=15090850&RS=600&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "지친 나에게\n선물하는 휴식",
+      "full_text": "지친 나에게\n선물하는 휴식",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "딸라스파 상반기 베스트 아이템 특가전,\n~30% + 7% 페이백 + 사은품",
+      "full_text": "딸라스파 상반기 베스트 아이템 특가전,\n~30% + 7% 페이백 + 사은품",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "REPETTO",
+      "full_text": "REPETTO\n레페토\n시즌 오프\n놓치면 아쉬울 스페셜 특가,\n~40% 할인 + 쿠폰\nBUY NOW",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1010/477/00/260600000733477_20260611100619.jpg?cVer=18051731&RS=600&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "레페토\n시즌 오프",
+      "full_text": "레페토\n시즌 오프",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "놓치면 아쉬울 스페셜 특가,\n~40% 할인 + 쿠폰",
+      "full_text": "놓치면 아쉬울 스페셜 특가,\n~40% 할인 + 쿠폰",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "PORTER",
+      "full_text": "PORTER\n여름을 채우는\n포터의 아카이브\n미니멀한 무드의\nHOWL & MILE 시리즈 제안\nBUY NOW",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1010/792/00/260600000733792_20260611145155.jpg?RS=600&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "여름을 채우는\n포터의 아카이브",
+      "full_text": "여름을 채우는\n포터의 아카이브",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "미니멀한 무드의\nHOWL & MILE 시리즈 제안",
+      "full_text": "미니멀한 무드의\nHOWL & MILE 시리즈 제안",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "ATELIER COLOGNE",
+      "full_text": "ATELIER COLOGNE\n아틀리에 코롱\n신세계V 론칭\n신세계V 공식 론칭 기념,\n~14% 쿠폰팩 + 사은품\nBUY NOW",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1010/083/00/260600000733083_20260610165702.jpg?RS=600&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "아틀리에 코롱\n신세계V 론칭",
+      "full_text": "아틀리에 코롱\n신세계V 론칭",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "신세계V 공식 론칭 기념,\n~14% 쿠폰팩 + 사은품",
+      "full_text": "신세계V 공식 론칭 기념,\n~14% 쿠폰팩 + 사은품",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "TOENN",
+      "full_text": "TOENN\n조용하고도\n선명한 형태감\n일상 속 자연스러운 절제미,\n단독 10% + 쿠폰 + 15% 페이백\nBUY NOW",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1010/447/00/260600000733447_20260611095946.jpg?RS=600&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "조용하고도\n선명한 형태감",
+      "full_text": "조용하고도\n선명한 형태감",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "일상 속 자연스러운 절제미,\n단독 10% + 쿠폰 + 15% 페이백",
+      "full_text": "일상 속 자연스러운 절제미,\n단독 10% + 쿠폰 + 15% 페이백",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "LEVI`S",
+      "full_text": "LEVI`S\n리바이스\n온라인 단독 혜택\n신상부터 베스트까지,\n~40% 할인 + 쿠폰\nBUY NOW",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1010/619/00/260600000732619_20260610134801.jpg?RS=600&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "리바이스\n온라인 단독 혜택",
+      "full_text": "리바이스\n온라인 단독 혜택",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "신상부터 베스트까지,\n~40% 할인 + 쿠폰",
+      "full_text": "신상부터 베스트까지,\n~40% 할인 + 쿠폰",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "ZEROGRAM",
+      "full_text": "ZEROGRAM\n움직임을\n더 자유롭게\n경량 아웃도어 웨어, 제로그램\n~50% + 쿠폰 + 15% 페이백\nBUY NOW",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1010/316/00/260600000733316_20260611090359.jpg?RS=600&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "움직임을\n더 자유롭게",
+      "full_text": "움직임을\n더 자유롭게",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "경량 아웃도어 웨어, 제로그램\n~50% + 쿠폰 + 15% 페이백",
+      "full_text": "경량 아웃도어 웨어, 제로그램\n~50% + 쿠폰 + 15% 페이백",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "ATLAS COLLECTIF",
+      "full_text": "ATLAS COLLECTIF\n여름 위를 달리는\n러너들을 위해\n아틀라스 콜렉티프 ~30%\n+ 추가 쿠폰 + 페이백\nBUY NOW",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1010/322/00/260600000733322_20260611090750.jpg?RS=600&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "여름 위를 달리는\n러너들을 위해",
+      "full_text": "여름 위를 달리는\n러너들을 위해",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "아틀라스 콜렉티프 ~30%\n+ 추가 쿠폰 + 페이백",
+      "full_text": "아틀라스 콜렉티프 ~30%\n+ 추가 쿠폰 + 페이백",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "PEUTEREY",
+      "full_text": "PEUTEREY\n어떤 계절에도\n완벽하게\n도시적 감성의 이태리 캐주얼웨어,\n페트레이 단독 특가 + 15% 페이백\nBUY NOW",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1010/945/00/260600000732945_20260610160130.jpg?RS=600&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "어떤 계절에도\n완벽하게",
+      "full_text": "어떤 계절에도\n완벽하게",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "도시적 감성의 이태리 캐주얼웨어,\n페트레이 단독 특가 + 15% 페이백",
+      "full_text": "도시적 감성의 이태리 캐주얼웨어,\n페트레이 단독 특가 + 15% 페이백",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "ADIDAS GOLF",
+      "full_text": "ADIDAS GOLF\n필드를 누비는\n가벼운 움직임\n아디다스골프 서머 골프위크,\n~80% + 쿠폰 + 15% 페이백\nBUY NOW",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1010/079/00/260600000733079_20260610165625.jpg?cVer=11010853&RS=600&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "필드를 누비는\n가벼운 움직임",
+      "full_text": "필드를 누비는\n가벼운 움직임",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "아디다스골프 서머 골프위크,\n~80% + 쿠폰 + 15% 페이백",
+      "full_text": "아디다스골프 서머 골프위크,\n~80% + 쿠폰 + 15% 페이백",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "JEAN PAUL CLARISSE",
+      "full_text": "JEAN PAUL CLARISSE\n빛을 머금은\n정교한 디테일\n클래식한 프렌치 무드 액세서리,\n단독 ~30% + 쿠폰 + 페이백\nBUY NOW",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1010/848/00/260600000732848_20260610152546.jpg?RS=600&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "빛을 머금은\n정교한 디테일",
+      "full_text": "빛을 머금은\n정교한 디테일",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "클래식한 프렌치 무드 액세서리,\n단독 ~30% + 쿠폰 + 페이백",
+      "full_text": "클래식한 프렌치 무드 액세서리,\n단독 ~30% + 쿠폰 + 페이백",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "PLEUVOIR",
+      "full_text": "PLEUVOIR\n손끝까지 선케어가\n필요한 계절\n플르부아 NEW 핸드 선 스크린,\n~25% + 15% 페이백 + 사은품\nBUY NOW",
+      "link": "",
+      "image": "https://image.shinsegaev.com/upload/C00001/s3/dspl/banner/1010/469/00/260400000715469_20260611124240.jpg?cVer=11124240&RS=600&SP=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "손끝까지 선케어가\n필요한 계절",
+      "full_text": "손끝까지 선케어가\n필요한 계절",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "플르부아 NEW 핸드 선 스크린,\n~25% + 15% 페이백 + 사은품",
+      "full_text": "플르부아 NEW 핸드 선 스크린,\n~25% + 15% 페이백 + 사은품",
+      "link": "",
+      "image": "",
+      "selector": "[class*='banner']"
+    }
+  ],
+  "products": [],
+  "error": null,
+  "screenshot": "data/shinsegae/2026/06/18/screenshot_1240.png"
+}
