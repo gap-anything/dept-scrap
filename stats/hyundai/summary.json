@@ -1,10 +1,10 @@
 {
   "store_id": "hyundai",
   "store_name": "현대백화점",
-  "generated_at": "2026-06-30T10:11:13.871718+00:00",
-  "total_runs": 539,
+  "generated_at": "2026-06-30T12:32:35.318485+00:00",
+  "total_runs": 540,
   "first_collected": "2026-04-17T06:22:16.788156+00:00",
-  "last_collected": "2026-06-30T10:10:37.927130+00:00",
+  "last_collected": "2026-06-30T12:31:59.505199+00:00",
   "products": {
     "unique_total": 0,
     "avg_per_run": 0.0,
@@ -21,56 +21,56 @@
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_grocery.png?SF=webp&AO=1",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-06-30T10:10:37.927130+00:00",
-        "appear_count": 502
+        "last_seen": "2026-06-30T12:31:59.505199+00:00",
+        "appear_count": 503
       },
       {
         "title": "뷰티관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_beauty.png?SF=webp&AO=1",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-06-30T10:10:37.927130+00:00",
-        "appear_count": 502
+        "last_seen": "2026-06-30T12:31:59.505199+00:00",
+        "appear_count": 503
       },
       {
         "title": "이머징관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_attag(1).png?SF=webp&AO=1",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-06-30T10:10:37.927130+00:00",
-        "appear_count": 502
+        "last_seen": "2026-06-30T12:31:59.505199+00:00",
+        "appear_count": 503
       },
       {
         "title": "리빙관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_living.png?SF=webp&AO=1",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-06-30T10:10:37.927130+00:00",
-        "appear_count": 502
+        "last_seen": "2026-06-30T12:31:59.505199+00:00",
+        "appear_count": 503
       },
       {
         "title": "레져관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/active.png?SF=webp&AO=1",
         "first_seen": "2026-05-04T08:08:15.109184+00:00",
-        "last_seen": "2026-06-30T10:10:37.927130+00:00",
-        "appear_count": 405
+        "last_seen": "2026-06-30T12:31:59.505199+00:00",
+        "appear_count": 406
       },
       {
         "title": "컨템패션관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_edit.png?SF=webp&AO=1",
         "first_seen": "2026-05-20T10:02:27.157269+00:00",
-        "last_seen": "2026-06-30T10:10:37.927130+00:00",
-        "appear_count": 326
+        "last_seen": "2026-06-30T12:31:59.505199+00:00",
+        "appear_count": 327
       },
       {
         "title": "키즈관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/Kids_Home.png?SF=webp&AO=1",
         "first_seen": "2026-05-26T01:27:45.841497+00:00",
-        "last_seen": "2026-06-30T10:10:37.927130+00:00",
-        "appear_count": 274
+        "last_seen": "2026-06-30T12:31:59.505199+00:00",
+        "appear_count": 275
       },
       {
         "title": "패션관",
@@ -173,16 +173,16 @@
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/기획전바로가기배너.gif?SF=webp&AO=1",
         "first_seen": "2026-06-25T15:28:02.284468+00:00",
-        "last_seen": "2026-06-30T10:10:37.927130+00:00",
-        "appear_count": 40
+        "last_seen": "2026-06-30T12:31:59.505199+00:00",
+        "appear_count": 41
       },
       {
         "title": "바캉스 위시리스트",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/아이콘키워드배너 (1).png?SF=webp&AO=1",
         "first_seen": "2026-06-25T15:28:02.284468+00:00",
-        "last_seen": "2026-06-30T10:10:37.927130+00:00",
-        "appear_count": 40
+        "last_seen": "2026-06-30T12:31:59.505199+00:00",
+        "appear_count": 41
       },
       {
         "title": "셀렉터스 1기 모집",
@@ -2976,6 +2976,11 @@
     },
     {
       "collected_at": "2026-06-30T10:10:37.927130+00:00",
+      "products": 0,
+      "promotions": 9
+    },
+    {
+      "collected_at": "2026-06-30T12:31:59.505199+00:00",
       "products": 0,
       "promotions": 9
     }
