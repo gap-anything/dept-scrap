@@ -1,10 +1,10 @@
 {
   "store_id": "hyundai",
   "store_name": "현대백화점",
-  "generated_at": "2026-07-15T20:38:21.368605+00:00",
-  "total_runs": 705,
+  "generated_at": "2026-07-15T22:10:08.509336+00:00",
+  "total_runs": 706,
   "first_collected": "2026-04-17T06:22:16.788156+00:00",
-  "last_collected": "2026-07-15T20:37:45.302580+00:00",
+  "last_collected": "2026-07-15T22:09:32.632779+00:00",
   "products": {
     "unique_total": 0,
     "avg_per_run": 0.0,
@@ -21,56 +21,56 @@
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_grocery.png?SF=webp&AO=1",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-07-15T20:37:45.302580+00:00",
-        "appear_count": 654
+        "last_seen": "2026-07-15T22:09:32.632779+00:00",
+        "appear_count": 655
       },
       {
         "title": "뷰티관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_beauty.png?SF=webp&AO=1",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-07-15T20:37:45.302580+00:00",
-        "appear_count": 654
+        "last_seen": "2026-07-15T22:09:32.632779+00:00",
+        "appear_count": 655
       },
       {
         "title": "이머징관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_attag(1).png?SF=webp&AO=1",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-07-15T20:37:45.302580+00:00",
-        "appear_count": 654
+        "last_seen": "2026-07-15T22:09:32.632779+00:00",
+        "appear_count": 655
       },
       {
         "title": "리빙관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_living.png?SF=webp&AO=1",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-07-15T20:37:45.302580+00:00",
-        "appear_count": 654
+        "last_seen": "2026-07-15T22:09:32.632779+00:00",
+        "appear_count": 655
       },
       {
         "title": "레져관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/active.png?SF=webp&AO=1",
         "first_seen": "2026-05-04T08:08:15.109184+00:00",
-        "last_seen": "2026-07-15T20:37:45.302580+00:00",
-        "appear_count": 557
+        "last_seen": "2026-07-15T22:09:32.632779+00:00",
+        "appear_count": 558
       },
       {
         "title": "컨템패션관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_edit.png?SF=webp&AO=1",
         "first_seen": "2026-05-20T10:02:27.157269+00:00",
-        "last_seen": "2026-07-15T20:37:45.302580+00:00",
-        "appear_count": 478
+        "last_seen": "2026-07-15T22:09:32.632779+00:00",
+        "appear_count": 479
       },
       {
         "title": "키즈관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/Kids_Home.png?SF=webp&AO=1",
         "first_seen": "2026-05-26T01:27:45.841497+00:00",
-        "last_seen": "2026-07-15T20:37:45.302580+00:00",
-        "appear_count": 426
+        "last_seen": "2026-07-15T22:09:32.632779+00:00",
+        "appear_count": 427
       },
       {
         "title": "패션관",
@@ -205,8 +205,8 @@
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/icon.gif?SF=webp&AO=1",
         "first_seen": "2026-07-12T15:37:12.416746+00:00",
-        "last_seen": "2026-07-15T20:37:45.302580+00:00",
-        "appear_count": 37
+        "last_seen": "2026-07-15T22:09:32.632779+00:00",
+        "appear_count": 38
       },
       {
         "title": "셀렉터스 1기 모집",
@@ -237,8 +237,8 @@
         "link": "",
         "image": "https://image.thehyundai.com/dp/psm/2026/06/29/154643/GEL-KAYANO-14_1203A537_110_0217_1080x720.jpg?SF=webp&AO=1",
         "first_seen": "2026-07-12T15:37:12.416746+00:00",
-        "last_seen": "2026-07-15T20:37:45.302580+00:00",
-        "appear_count": 29
+        "last_seen": "2026-07-15T22:09:32.632779+00:00",
+        "appear_count": 30
       },
       {
         "title": "프리미엄 미식, 선물 고민 끝",
@@ -3846,6 +3846,11 @@
     },
     {
       "collected_at": "2026-07-15T20:37:45.302580+00:00",
+      "products": 0,
+      "promotions": 9
+    },
+    {
+      "collected_at": "2026-07-15T22:09:32.632779+00:00",
       "products": 0,
       "promotions": 9
     }
