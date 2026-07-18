@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-18T04:12:42.058889+00:00",
+  "generated_at": "2026-07-18T06:32:08.928932+00:00",
   "stores": {
     "shinsegae": {
       "store_id": "shinsegae",
       "store_name": "신세계V",
-      "generated_at": "2026-07-18T04:12:41.791397+00:00",
-      "total_runs": 735,
+      "generated_at": "2026-07-18T06:32:08.675712+00:00",
+      "total_runs": 736,
       "first_collected": "2026-04-17T06:22:16.787782+00:00",
-      "last_collected": "2026-07-18T04:12:05.888840+00:00",
+      "last_collected": "2026-07-18T06:31:32.669817+00:00",
       "products": {
         "unique_total": 0,
         "avg_per_run": 0.0,
@@ -9473,16 +9473,21 @@
           "collected_at": "2026-07-18T04:12:05.888840+00:00",
           "products": 0,
           "promotions": 0
+        },
+        {
+          "collected_at": "2026-07-18T06:31:32.669817+00:00",
+          "products": 0,
+          "promotions": 0
         }
       ]
     },
     "hyundai": {
       "store_id": "hyundai",
       "store_name": "현대백화점",
-      "generated_at": "2026-07-18T04:12:41.840391+00:00",
-      "total_runs": 735,
+      "generated_at": "2026-07-18T06:32:08.722929+00:00",
+      "total_runs": 736,
       "first_collected": "2026-04-17T06:22:16.788156+00:00",
-      "last_collected": "2026-07-18T04:12:05.889454+00:00",
+      "last_collected": "2026-07-18T06:31:32.670511+00:00",
       "products": {
         "unique_total": 0,
         "avg_per_run": 0.0,
@@ -9492,7 +9497,7 @@
       },
       "promotions": {
         "unique_total": 39,
-        "avg_per_run": 8.2,
+        "avg_per_run": 8.1,
         "all": [
           {
             "title": "현대식품관",
@@ -13484,16 +13489,21 @@
           "collected_at": "2026-07-18T04:12:05.889454+00:00",
           "products": 0,
           "promotions": 9
+        },
+        {
+          "collected_at": "2026-07-18T06:31:32.670511+00:00",
+          "products": 0,
+          "promotions": 0
         }
       ]
     },
     "lotte": {
       "store_id": "lotte",
       "store_name": "롯데온",
-      "generated_at": "2026-07-18T04:12:41.971706+00:00",
-      "total_runs": 735,
+      "generated_at": "2026-07-18T06:32:08.837321+00:00",
+      "total_runs": 736,
       "first_collected": "2026-04-17T06:22:16.789258+00:00",
-      "last_collected": "2026-07-18T04:12:05.890162+00:00",
+      "last_collected": "2026-07-18T06:31:32.670828+00:00",
       "products": {
         "unique_total": 0,
         "avg_per_run": 0.0,
@@ -13503,7 +13513,7 @@
       },
       "promotions": {
         "unique_total": 13154,
-        "avg_per_run": 48.1,
+        "avg_per_run": 48.0,
         "all": [
           {
             "title": "슈즈",
@@ -122608,6 +122618,11 @@
           "collected_at": "2026-07-18T04:12:05.890162+00:00",
           "products": 0,
           "promotions": 87
+        },
+        {
+          "collected_at": "2026-07-18T06:31:32.670828+00:00",
+          "products": 0,
+          "promotions": 0
         }
       ]
     }
