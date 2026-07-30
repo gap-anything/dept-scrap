@@ -1,10 +1,10 @@
 {
   "store_id": "hyundai",
   "store_name": "현대백화점",
-  "generated_at": "2026-07-30T03:45:45.478417+00:00",
-  "total_runs": 873,
+  "generated_at": "2026-07-30T06:37:56.982406+00:00",
+  "total_runs": 874,
   "first_collected": "2026-04-17T06:22:16.788156+00:00",
-  "last_collected": "2026-07-30T03:45:09.563679+00:00",
+  "last_collected": "2026-07-30T06:37:21.070441+00:00",
   "products": {
     "unique_total": 0,
     "avg_per_run": 0.0,
@@ -13,7 +13,7 @@
     "new_products": []
   },
   "promotions": {
-    "unique_total": 48,
+    "unique_total": 49,
     "avg_per_run": 8.2,
     "all": [
       {
@@ -21,56 +21,56 @@
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_grocery.png?SF=webp&AO=1",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-07-30T00:07:39.100766+00:00",
-        "appear_count": 806
+        "last_seen": "2026-07-30T06:37:21.070441+00:00",
+        "appear_count": 807
       },
       {
         "title": "뷰티관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_beauty.png?SF=webp&AO=1",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-07-30T00:07:39.100766+00:00",
-        "appear_count": 806
+        "last_seen": "2026-07-30T06:37:21.070441+00:00",
+        "appear_count": 807
       },
       {
         "title": "이머징관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_attag(1).png?SF=webp&AO=1",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-07-30T00:07:39.100766+00:00",
-        "appear_count": 806
+        "last_seen": "2026-07-30T06:37:21.070441+00:00",
+        "appear_count": 807
       },
       {
         "title": "리빙관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_living.png?SF=webp&AO=1",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-07-30T00:07:39.100766+00:00",
-        "appear_count": 806
+        "last_seen": "2026-07-30T06:37:21.070441+00:00",
+        "appear_count": 807
       },
       {
         "title": "레져관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/active.png?SF=webp&AO=1",
         "first_seen": "2026-05-04T08:08:15.109184+00:00",
-        "last_seen": "2026-07-30T00:07:39.100766+00:00",
-        "appear_count": 709
+        "last_seen": "2026-07-30T06:37:21.070441+00:00",
+        "appear_count": 710
       },
       {
         "title": "컨템패션관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_edit.png?SF=webp&AO=1",
         "first_seen": "2026-05-20T10:02:27.157269+00:00",
-        "last_seen": "2026-07-30T00:07:39.100766+00:00",
-        "appear_count": 630
+        "last_seen": "2026-07-30T06:37:21.070441+00:00",
+        "appear_count": 631
       },
       {
         "title": "키즈관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/Kids_Home.png?SF=webp&AO=1",
         "first_seen": "2026-05-26T01:27:45.841497+00:00",
-        "last_seen": "2026-07-30T00:07:39.100766+00:00",
-        "appear_count": 578
+        "last_seen": "2026-07-30T06:37:21.070441+00:00",
+        "appear_count": 579
       },
       {
         "title": "패션관",
@@ -225,6 +225,14 @@
         "appear_count": 42
       },
       {
+        "title": "아이코닉",
+        "link": "",
+        "image": "https://image.thehyundai.com/dp/ModuBanner/animation-1784181438054.gif?SF=webp&AO=1",
+        "first_seen": "2026-07-26T16:11:17.757301+00:00",
+        "last_seen": "2026-07-30T06:37:21.070441+00:00",
+        "appear_count": 36
+      },
+      {
         "title": "셀렉터스 1기 모집",
         "link": "",
         "image": "https://image.thehyundai.com/dp/psm/2026/05/21/153956/70X70.png?SF=webp&AO=1",
@@ -238,14 +246,6 @@
         "image": "https://image.thehyundai.com/dp/psm/2026/06/29/154643/GEL-KAYANO-14_1203A537_110_0217_1080x720.jpg?SF=webp&AO=1",
         "first_seen": "2026-07-12T15:37:12.416746+00:00",
         "last_seen": "2026-07-16T14:38:17.239654+00:00",
-        "appear_count": 35
-      },
-      {
-        "title": "아이코닉",
-        "link": "",
-        "image": "https://image.thehyundai.com/dp/ModuBanner/animation-1784181438054.gif?SF=webp&AO=1",
-        "first_seen": "2026-07-26T16:11:17.757301+00:00",
-        "last_seen": "2026-07-30T00:07:39.100766+00:00",
         "appear_count": 35
       },
       {
@@ -399,9 +399,26 @@
         "first_seen": "2026-07-20T03:51:14.189789+00:00",
         "last_seen": "2026-07-20T03:51:14.189789+00:00",
         "appear_count": 1
+      },
+      {
+        "title": "새로운 갤럭시",
+        "link": "",
+        "image": "https://image.thehyundai.com/dp/psm/2026/07/23/132741/KakaoTalk_20260723_090854233_01.jpg?SF=webp&AO=1",
+        "first_seen": "2026-07-30T06:37:21.070441+00:00",
+        "last_seen": "2026-07-30T06:37:21.070441+00:00",
+        "appear_count": 1
       }
     ],
-    "new_promotions": []
+    "new_promotions": [
+      {
+        "title": "새로운 갤럭시",
+        "link": "",
+        "image": "https://image.thehyundai.com/dp/psm/2026/07/23/132741/KakaoTalk_20260723_090854233_01.jpg?SF=webp&AO=1",
+        "first_seen": "2026-07-30T06:37:21.070441+00:00",
+        "last_seen": "2026-07-30T06:37:21.070441+00:00",
+        "appear_count": 1
+      }
+    ]
   },
   "run_history": [
     {
@@ -4768,6 +4785,11 @@
       "collected_at": "2026-07-30T03:45:09.563679+00:00",
       "products": 0,
       "promotions": 0
+    },
+    {
+      "collected_at": "2026-07-30T06:37:21.070441+00:00",
+      "products": 0,
+      "promotions": 9
     }
   ]
 }
