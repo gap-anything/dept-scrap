@@ -1,10 +1,10 @@
 {
   "store_id": "hyundai",
   "store_name": "현대백화점",
-  "generated_at": "2026-08-06T12:31:51.733130+00:00",
-  "total_runs": 954,
+  "generated_at": "2026-08-06T15:03:38.768951+00:00",
+  "total_runs": 955,
   "first_collected": "2026-04-17T06:22:16.788156+00:00",
-  "last_collected": "2026-08-06T12:31:15.603651+00:00",
+  "last_collected": "2026-08-06T15:03:02.795054+00:00",
   "products": {
     "unique_total": 0,
     "avg_per_run": 0.0,
@@ -449,16 +449,7 @@
         "appear_count": 1
       }
     ],
-    "new_promotions": [
-      {
-        "title": "요가 코치 아키바 리에",
-        "link": "",
-        "image": "https://image.thehyundai.com/dp/ModuBanner/아키바 리에.png?SF=webp&AO=1",
-        "first_seen": "2026-08-06T07:22:34.373547+00:00",
-        "last_seen": "2026-08-06T12:31:15.603651+00:00",
-        "appear_count": 3
-      }
-    ]
+    "new_promotions": []
   },
   "run_history": [
     {
@@ -5230,6 +5221,11 @@
       "collected_at": "2026-08-06T12:31:15.603651+00:00",
       "products": 0,
       "promotions": 10
+    },
+    {
+      "collected_at": "2026-08-06T15:03:02.795054+00:00",
+      "products": 0,
+      "promotions": 0
     }
   ]
 }
