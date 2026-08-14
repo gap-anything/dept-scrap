@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-14T03:11:54.018516+00:00",
+  "generated_at": "2026-08-14T05:20:03.430772+00:00",
   "stores": {
     "shinsegae": {
       "store_id": "shinsegae",
       "store_name": "신세계V",
-      "generated_at": "2026-08-14T03:11:53.661242+00:00",
-      "total_runs": 1085,
+      "generated_at": "2026-08-14T05:20:03.054943+00:00",
+      "total_runs": 1086,
       "first_collected": "2026-04-17T06:22:16.787782+00:00",
-      "last_collected": "2026-08-14T03:11:17.599952+00:00",
+      "last_collected": "2026-08-14T05:19:27.010435+00:00",
       "products": {
         "unique_total": 0,
         "avg_per_run": 0.0,
@@ -13439,16 +13439,21 @@
           "collected_at": "2026-08-14T03:11:17.599952+00:00",
           "products": 0,
           "promotions": 0
+        },
+        {
+          "collected_at": "2026-08-14T05:19:27.010435+00:00",
+          "products": 0,
+          "promotions": 0
         }
       ]
     },
     "hyundai": {
       "store_id": "hyundai",
       "store_name": "현대백화점",
-      "generated_at": "2026-08-14T03:11:53.728718+00:00",
-      "total_runs": 1085,
+      "generated_at": "2026-08-14T05:20:03.132397+00:00",
+      "total_runs": 1086,
       "first_collected": "2026-04-17T06:22:16.788156+00:00",
-      "last_collected": "2026-08-14T03:11:17.600735+00:00",
+      "last_collected": "2026-08-14T05:19:27.011358+00:00",
       "products": {
         "unique_total": 0,
         "avg_per_run": 0.0,
@@ -19344,16 +19349,21 @@
           "collected_at": "2026-08-14T03:11:17.600735+00:00",
           "products": 0,
           "promotions": 10
+        },
+        {
+          "collected_at": "2026-08-14T05:19:27.011358+00:00",
+          "products": 0,
+          "promotions": 0
         }
       ]
     },
     "lotte": {
       "store_id": "lotte",
       "store_name": "롯데온",
-      "generated_at": "2026-08-14T03:11:53.889710+00:00",
-      "total_runs": 1085,
+      "generated_at": "2026-08-14T05:20:03.301011+00:00",
+      "total_runs": 1086,
       "first_collected": "2026-04-17T06:22:16.789258+00:00",
-      "last_collected": "2026-08-14T03:11:17.601261+00:00",
+      "last_collected": "2026-08-14T05:19:27.012363+00:00",
       "products": {
         "unique_total": 0,
         "avg_per_run": 0.0,
@@ -19363,7 +19373,7 @@
       },
       "promotions": {
         "unique_total": 18260,
-        "avg_per_run": 47.5,
+        "avg_per_run": 47.4,
         "all": [
           {
             "title": "슈즈",
@@ -171274,6 +171284,11 @@
           "collected_at": "2026-08-14T03:11:17.601261+00:00",
           "products": 0,
           "promotions": 87
+        },
+        {
+          "collected_at": "2026-08-14T05:19:27.012363+00:00",
+          "products": 0,
+          "promotions": 0
         }
       ]
     }
