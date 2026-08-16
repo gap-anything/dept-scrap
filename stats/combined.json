@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-16T19:51:20.669351+00:00",
+  "generated_at": "2026-08-16T20:34:31.010607+00:00",
   "stores": {
     "shinsegae": {
       "store_id": "shinsegae",
       "store_name": "신세계V",
-      "generated_at": "2026-08-16T19:51:20.292424+00:00",
-      "total_runs": 1161,
+      "generated_at": "2026-08-16T20:34:30.703090+00:00",
+      "total_runs": 1162,
       "first_collected": "2026-04-17T06:22:16.787782+00:00",
-      "last_collected": "2026-08-16T19:50:44.430797+00:00",
+      "last_collected": "2026-08-16T20:33:55.020618+00:00",
       "products": {
         "unique_total": 0,
         "avg_per_run": 0.0,
@@ -13819,16 +13819,21 @@
           "collected_at": "2026-08-16T19:50:44.430797+00:00",
           "products": 0,
           "promotions": 0
+        },
+        {
+          "collected_at": "2026-08-16T20:33:55.020618+00:00",
+          "products": 0,
+          "promotions": 0
         }
       ]
     },
     "hyundai": {
       "store_id": "hyundai",
       "store_name": "현대백화점",
-      "generated_at": "2026-08-16T19:51:20.367234+00:00",
-      "total_runs": 1161,
+      "generated_at": "2026-08-16T20:34:30.759981+00:00",
+      "total_runs": 1162,
       "first_collected": "2026-04-17T06:22:16.788156+00:00",
-      "last_collected": "2026-08-16T19:50:44.431505+00:00",
+      "last_collected": "2026-08-16T20:33:55.021223+00:00",
       "products": {
         "unique_total": 0,
         "avg_per_run": 0.0,
@@ -13845,56 +13850,56 @@
             "link": "",
             "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_grocery.png?SF=webp&AO=1",
             "first_seen": "2026-04-17T06:22:16.788156+00:00",
-            "last_seen": "2026-08-16T19:50:44.431505+00:00",
-            "appear_count": 1072
+            "last_seen": "2026-08-16T20:33:55.021223+00:00",
+            "appear_count": 1073
           },
           {
             "title": "뷰티관",
             "link": "",
             "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_beauty.png?SF=webp&AO=1",
             "first_seen": "2026-04-17T06:22:16.788156+00:00",
-            "last_seen": "2026-08-16T19:50:44.431505+00:00",
-            "appear_count": 1072
+            "last_seen": "2026-08-16T20:33:55.021223+00:00",
+            "appear_count": 1073
           },
           {
             "title": "이머징관",
             "link": "",
             "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_attag(1).png?SF=webp&AO=1",
             "first_seen": "2026-04-17T06:22:16.788156+00:00",
-            "last_seen": "2026-08-16T19:50:44.431505+00:00",
-            "appear_count": 1072
+            "last_seen": "2026-08-16T20:33:55.021223+00:00",
+            "appear_count": 1073
           },
           {
             "title": "리빙관",
             "link": "",
             "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_living.png?SF=webp&AO=1",
             "first_seen": "2026-04-17T06:22:16.788156+00:00",
-            "last_seen": "2026-08-16T19:50:44.431505+00:00",
-            "appear_count": 1072
+            "last_seen": "2026-08-16T20:33:55.021223+00:00",
+            "appear_count": 1073
           },
           {
             "title": "레져관",
             "link": "",
             "image": "https://image.thehyundai.com/dp/ModuBanner/active.png?SF=webp&AO=1",
             "first_seen": "2026-05-04T08:08:15.109184+00:00",
-            "last_seen": "2026-08-16T19:50:44.431505+00:00",
-            "appear_count": 975
+            "last_seen": "2026-08-16T20:33:55.021223+00:00",
+            "appear_count": 976
           },
           {
             "title": "컨템패션관",
             "link": "",
             "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_edit.png?SF=webp&AO=1",
             "first_seen": "2026-05-20T10:02:27.157269+00:00",
-            "last_seen": "2026-08-16T19:50:44.431505+00:00",
-            "appear_count": 896
+            "last_seen": "2026-08-16T20:33:55.021223+00:00",
+            "appear_count": 897
           },
           {
             "title": "키즈관",
             "link": "",
             "image": "https://image.thehyundai.com/dp/ModuBanner/Kids_Home.png?SF=webp&AO=1",
             "first_seen": "2026-05-26T01:27:45.841497+00:00",
-            "last_seen": "2026-08-16T19:50:44.431505+00:00",
-            "appear_count": 844
+            "last_seen": "2026-08-16T20:33:55.021223+00:00",
+            "appear_count": 845
           },
           {
             "title": "패션관",
@@ -14193,6 +14198,14 @@
             "appear_count": 20
           },
           {
+            "title": "미식위크",
+            "link": "",
+            "image": "https://image.thehyundai.com/dp/ModuBanner/미식위크 진입점.gif?SF=webp&AO=1",
+            "first_seen": "2026-08-16T15:31:26.138807+00:00",
+            "last_seen": "2026-08-16T20:33:55.021223+00:00",
+            "appear_count": 9
+          },
+          {
             "title": "아이더&네파 역시즌 70%",
             "link": "",
             "image": "https://image.thehyundai.com/dp/psm/2026/05/08/154733/아이더5_750x750.jpg?SF=webp&AO=1",
@@ -14230,14 +14243,6 @@
             "image": "",
             "first_seen": "2026-05-11T10:49:23.179231+00:00",
             "last_seen": "2026-05-13T21:58:23.357399+00:00",
-            "appear_count": 8
-          },
-          {
-            "title": "미식위크",
-            "link": "",
-            "image": "https://image.thehyundai.com/dp/ModuBanner/미식위크 진입점.gif?SF=webp&AO=1",
-            "first_seen": "2026-08-16T15:31:26.138807+00:00",
-            "last_seen": "2026-08-16T19:50:44.431505+00:00",
             "appear_count": 8
           },
           {
@@ -20112,16 +20117,21 @@
           "collected_at": "2026-08-16T19:50:44.431505+00:00",
           "products": 0,
           "promotions": 8
+        },
+        {
+          "collected_at": "2026-08-16T20:33:55.021223+00:00",
+          "products": 0,
+          "promotions": 8
         }
       ]
     },
     "lotte": {
       "store_id": "lotte",
       "store_name": "롯데온",
-      "generated_at": "2026-08-16T19:51:20.539498+00:00",
-      "total_runs": 1161,
+      "generated_at": "2026-08-16T20:34:30.896905+00:00",
+      "total_runs": 1162,
       "first_collected": "2026-04-17T06:22:16.789258+00:00",
-      "last_collected": "2026-08-16T19:50:44.432546+00:00",
+      "last_collected": "2026-08-16T20:33:55.021910+00:00",
       "products": {
         "unique_total": 0,
         "avg_per_run": 0.0,
@@ -20130,7 +20140,7 @@
         "new_products": []
       },
       "promotions": {
-        "unique_total": 19222,
+        "unique_total": 19244,
         "avg_per_run": 47.5,
         "all": [
           {
@@ -22470,6 +22480,14 @@
             "appear_count": 18
           },
           {
+            "title": "1올리브데올리브",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-04-20T16:21:36.653982+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 18
+          },
+          {
             "title": "2여성반팔블라우스",
             "link": "",
             "image": "",
@@ -22636,14 +22654,6 @@
             "first_seen": "2026-07-09T01:13:37.240166+00:00",
             "last_seen": "2026-07-12T14:11:22.827521+00:00",
             "appear_count": 18
-          },
-          {
-            "title": "1올리브데올리브",
-            "link": "",
-            "image": "",
-            "first_seen": "2026-04-20T16:21:36.653982+00:00",
-            "last_seen": "2026-08-16T19:50:44.432546+00:00",
-            "appear_count": 17
           },
           {
             "title": "1여성반팔블라우스",
@@ -24902,6 +24912,14 @@
             "appear_count": 10
           },
           {
+            "title": "2jj지고트",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-04-23T20:15:57.223690+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 10
+          },
+          {
             "title": "3cc콜렉트",
             "link": "",
             "image": "",
@@ -25435,14 +25453,6 @@
             "image": "",
             "first_seen": "2026-04-19T22:02:53.322311+00:00",
             "last_seen": "2026-07-14T04:12:30.414196+00:00",
-            "appear_count": 9
-          },
-          {
-            "title": "2jj지고트",
-            "link": "",
-            "image": "",
-            "first_seen": "2026-04-23T20:15:57.223690+00:00",
-            "last_seen": "2026-08-09T17:39:16.298294+00:00",
             "appear_count": 9
           },
           {
@@ -29774,6 +29784,14 @@
             "appear_count": 3
           },
           {
+            "title": "7써스데이아일랜드블라우스 2",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-04-30T23:37:20.079765+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 3
+          },
+          {
             "title": "15에고이스트New",
             "link": "",
             "image": "",
@@ -30675,6 +30693,14 @@
             "image": "",
             "first_seen": "2026-05-22T16:32:29.921342+00:00",
             "last_seen": "2026-08-16T01:51:07.353675+00:00",
+            "appear_count": 3
+          },
+          {
+            "title": "4셀린느가방 1",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-05-22T16:32:29.921342+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
             "appear_count": 3
           },
           {
@@ -35910,14 +35936,6 @@
             "appear_count": 2
           },
           {
-            "title": "7써스데이아일랜드블라우스 2",
-            "link": "",
-            "image": "",
-            "first_seen": "2026-04-30T23:37:20.079765+00:00",
-            "last_seen": "2026-05-11T18:04:46.419195+00:00",
-            "appear_count": 2
-          },
-          {
             "title": "10쉬즈미스New",
             "link": "",
             "image": "",
@@ -38406,14 +38424,6 @@
             "appear_count": 2
           },
           {
-            "title": "4셀린느가방 1",
-            "link": "",
-            "image": "",
-            "first_seen": "2026-05-22T16:32:29.921342+00:00",
-            "last_seen": "2026-07-08T04:51:48.389262+00:00",
-            "appear_count": 2
-          },
-          {
             "title": "6스튜디오톰보이 1",
             "link": "",
             "image": "",
@@ -39611,6 +39621,14 @@
             "image": "",
             "first_seen": "2026-05-27T18:41:26.334267+00:00",
             "last_seen": "2026-07-05T08:08:56.162054+00:00",
+            "appear_count": 2
+          },
+          {
+            "title": "17아식스New",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-05-27T18:41:26.334267+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
             "appear_count": 2
           },
           {
@@ -42259,6 +42277,14 @@
             "image": "",
             "first_seen": "2026-06-19T14:18:39.682114+00:00",
             "last_seen": "2026-08-02T07:13:30.325819+00:00",
+            "appear_count": 2
+          },
+          {
+            "title": "16주크New",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-06-19T14:18:39.682114+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
             "appear_count": 2
           },
           {
@@ -44963,6 +44989,14 @@
             "image": "",
             "first_seen": "2026-07-09T18:21:28.638067+00:00",
             "last_seen": "2026-07-31T15:08:37.545935+00:00",
+            "appear_count": 2
+          },
+          {
+            "title": "12닌텐도스위치2 1",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-07-09T18:21:28.638067+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
             "appear_count": 2
           },
           {
@@ -47891,6 +47925,14 @@
             "image": "",
             "first_seen": "2026-08-07T23:40:58.701683+00:00",
             "last_seen": "2026-08-14T20:40:23.033415+00:00",
+            "appear_count": 2
+          },
+          {
+            "title": "18원피스 11",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-08T09:48:45.506694+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
             "appear_count": 2
           },
           {
@@ -82230,14 +82272,6 @@
             "appear_count": 1
           },
           {
-            "title": "17아식스New",
-            "link": "",
-            "image": "",
-            "first_seen": "2026-05-27T18:41:26.334267+00:00",
-            "last_seen": "2026-05-27T18:41:26.334267+00:00",
-            "appear_count": 1
-          },
-          {
             "title": "18폴로랄프로렌여성New",
             "link": "",
             "image": "",
@@ -99423,14 +99457,6 @@
           },
           {
             "title": "15잇미샤 5",
-            "link": "",
-            "image": "",
-            "first_seen": "2026-06-19T14:18:39.682114+00:00",
-            "last_seen": "2026-06-19T14:18:39.682114+00:00",
-            "appear_count": 1
-          },
-          {
-            "title": "16주크New",
             "link": "",
             "image": "",
             "first_seen": "2026-06-19T14:18:39.682114+00:00",
@@ -120759,14 +120785,6 @@
           },
           {
             "title": "10레고 23",
-            "link": "",
-            "image": "",
-            "first_seen": "2026-07-09T18:21:28.638067+00:00",
-            "last_seen": "2026-07-09T18:21:28.638067+00:00",
-            "appear_count": 1
-          },
-          {
-            "title": "12닌텐도스위치2 1",
             "link": "",
             "image": "",
             "first_seen": "2026-07-09T18:21:28.638067+00:00",
@@ -156182,14 +156200,6 @@
             "appear_count": 1
           },
           {
-            "title": "18원피스 11",
-            "link": "",
-            "image": "",
-            "first_seen": "2026-08-08T09:48:45.506694+00:00",
-            "last_seen": "2026-08-08T09:48:45.506694+00:00",
-            "appear_count": 1
-          },
-          {
             "title": "19스케쳐스샌들 31",
             "link": "",
             "image": "",
@@ -173908,6 +173918,182 @@
             "first_seen": "2026-08-16T17:51:40.831244+00:00",
             "last_seen": "2026-08-16T17:51:40.831244+00:00",
             "appear_count": 1
+          },
+          {
+            "title": "30여성가방New",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "3포켓몬카드New",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "5나이스클랍 16",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "6크록스New",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "8역시즌패딩 7",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "9뉴발란스운동화 54",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "10디올립스틱New",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "11코치가방 7",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "13블라우스",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "14메이블루 85",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "15롱샴 7",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "19나이키운동화 66",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "20써스데이아일랜드 4",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "21레고 9",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "22뉴발란스530 3",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "23아디다스 16",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "24꽃보다오징어 15",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "25라코스테 11",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "26디올 4",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "27나이키 57",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "28맥 72",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "29샤넬립스틱 23",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
           }
         ],
         "new_promotions": [
@@ -174086,6 +174272,182 @@
             "first_seen": "2026-08-16T19:29:26.413497+00:00",
             "last_seen": "2026-08-16T19:50:44.432546+00:00",
             "appear_count": 2
+          },
+          {
+            "title": "30여성가방New",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "3포켓몬카드New",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "5나이스클랍 16",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "6크록스New",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "8역시즌패딩 7",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "9뉴발란스운동화 54",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "10디올립스틱New",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "11코치가방 7",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "13블라우스",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "14메이블루 85",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "15롱샴 7",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "19나이키운동화 66",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "20써스데이아일랜드 4",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "21레고 9",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "22뉴발란스530 3",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "23아디다스 16",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "24꽃보다오징어 15",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "25라코스테 11",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "26디올 4",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "27나이키 57",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "28맥 72",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "29샤넬립스틱 23",
+            "link": "",
+            "image": "",
+            "first_seen": "2026-08-16T20:33:55.021910+00:00",
+            "last_seen": "2026-08-16T20:33:55.021910+00:00",
+            "appear_count": 1
           }
         ]
       },
@@ -179894,6 +180256,11 @@
           "collected_at": "2026-08-16T19:50:44.432546+00:00",
           "products": 0,
           "promotions": 84
+        },
+        {
+          "collected_at": "2026-08-16T20:33:55.021910+00:00",
+          "products": 0,
+          "promotions": 30
         }
       ]
     }
