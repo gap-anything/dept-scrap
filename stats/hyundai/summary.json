@@ -1,10 +1,10 @@
 {
   "store_id": "hyundai",
   "store_name": "현대백화점",
-  "generated_at": "2026-08-18T05:08:00.148809+00:00",
-  "total_runs": 1195,
+  "generated_at": "2026-08-18T06:00:49.991325+00:00",
+  "total_runs": 1196,
   "first_collected": "2026-04-17T06:22:16.788156+00:00",
-  "last_collected": "2026-08-18T05:07:24.086570+00:00",
+  "last_collected": "2026-08-18T06:00:14.031747+00:00",
   "products": {
     "unique_total": 0,
     "avg_per_run": 0.0,
@@ -489,16 +489,7 @@
         "appear_count": 1
       }
     ],
-    "new_promotions": [
-      {
-        "title": "모델 스테파니 미초바",
-        "link": "",
-        "image": "https://image.thehyundai.com/dp/ModuBanner/스테파니 미초바.png?SF=webp&AO=1",
-        "first_seen": "2026-08-18T03:06:01.170859+00:00",
-        "last_seen": "2026-08-18T05:07:24.086570+00:00",
-        "appear_count": 3
-      }
-    ]
+    "new_promotions": []
   },
   "run_history": [
     {
@@ -6475,6 +6466,11 @@
       "collected_at": "2026-08-18T05:07:24.086570+00:00",
       "products": 0,
       "promotions": 9
+    },
+    {
+      "collected_at": "2026-08-18T06:00:14.031747+00:00",
+      "products": 0,
+      "promotions": 0
     }
   ]
 }
