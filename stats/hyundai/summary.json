@@ -1,10 +1,10 @@
 {
   "store_id": "hyundai",
   "store_name": "현대백화점",
-  "generated_at": "2026-08-23T11:54:34.634287+00:00",
-  "total_runs": 1331,
+  "generated_at": "2026-08-23T12:58:04.700728+00:00",
+  "total_runs": 1332,
   "first_collected": "2026-04-17T06:22:16.788156+00:00",
-  "last_collected": "2026-08-23T11:53:58.654352+00:00",
+  "last_collected": "2026-08-23T12:57:28.894196+00:00",
   "products": {
     "unique_total": 0,
     "avg_per_run": 0.0,
@@ -7162,6 +7162,11 @@
       "collected_at": "2026-08-23T11:53:58.654352+00:00",
       "products": 0,
       "promotions": 9
+    },
+    {
+      "collected_at": "2026-08-23T12:57:28.894196+00:00",
+      "products": 0,
+      "promotions": 0
     }
   ]
 }
