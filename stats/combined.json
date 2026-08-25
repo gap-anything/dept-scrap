@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-25T03:10:56.782339+00:00",
+  "generated_at": "2026-08-25T04:15:22.825854+00:00",
   "stores": {
     "shinsegae": {
       "store_id": "shinsegae",
       "store_name": "신세계V",
-      "generated_at": "2026-08-25T03:10:56.434979+00:00",
-      "total_runs": 1374,
+      "generated_at": "2026-08-25T04:15:22.453020+00:00",
+      "total_runs": 1375,
       "first_collected": "2026-04-17T06:22:16.787782+00:00",
-      "last_collected": "2026-08-25T03:10:20.294506+00:00",
+      "last_collected": "2026-08-25T04:14:46.411274+00:00",
       "products": {
         "unique_total": 0,
         "avg_per_run": 0.0,
@@ -14884,16 +14884,21 @@
           "collected_at": "2026-08-25T03:10:20.294506+00:00",
           "products": 0,
           "promotions": 0
+        },
+        {
+          "collected_at": "2026-08-25T04:14:46.411274+00:00",
+          "products": 0,
+          "promotions": 0
         }
       ]
     },
     "hyundai": {
       "store_id": "hyundai",
       "store_name": "현대백화점",
-      "generated_at": "2026-08-25T03:10:56.492817+00:00",
-      "total_runs": 1374,
+      "generated_at": "2026-08-25T04:15:22.521370+00:00",
+      "total_runs": 1375,
       "first_collected": "2026-04-17T06:22:16.788156+00:00",
-      "last_collected": "2026-08-25T03:10:20.294920+00:00",
+      "last_collected": "2026-08-25T04:14:46.411972+00:00",
       "products": {
         "unique_total": 0,
         "avg_per_run": 0.0,
@@ -22299,16 +22304,21 @@
           "collected_at": "2026-08-25T03:10:20.294920+00:00",
           "products": 0,
           "promotions": 11
+        },
+        {
+          "collected_at": "2026-08-25T04:14:46.411972+00:00",
+          "products": 0,
+          "promotions": 0
         }
       ]
     },
     "lotte": {
       "store_id": "lotte",
       "store_name": "롯데온",
-      "generated_at": "2026-08-25T03:10:56.655631+00:00",
-      "total_runs": 1374,
+      "generated_at": "2026-08-25T04:15:22.682192+00:00",
+      "total_runs": 1375,
       "first_collected": "2026-04-17T06:22:16.789258+00:00",
-      "last_collected": "2026-08-25T03:10:20.296603+00:00",
+      "last_collected": "2026-08-25T04:14:46.412221+00:00",
       "products": {
         "unique_total": 0,
         "avg_per_run": 0.0,
@@ -205191,6 +205201,11 @@
         },
         {
           "collected_at": "2026-08-25T03:10:20.296603+00:00",
+          "products": 0,
+          "promotions": 0
+        },
+        {
+          "collected_at": "2026-08-25T04:14:46.412221+00:00",
           "products": 0,
           "promotions": 0
         }
