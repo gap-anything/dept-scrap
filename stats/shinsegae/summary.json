@@ -1,10 +1,10 @@
 {
   "store_id": "shinsegae",
   "store_name": "신세계V",
-  "generated_at": "2026-08-27T21:13:05.894988+00:00",
-  "total_runs": 1409,
+  "generated_at": "2026-08-28T05:42:11.923891+00:00",
+  "total_runs": 1410,
   "first_collected": "2026-04-17T06:22:16.787782+00:00",
-  "last_collected": "2026-08-27T21:12:30.081663+00:00",
+  "last_collected": "2026-08-28T05:41:35.977105+00:00",
   "products": {
     "unique_total": 0,
     "avg_per_run": 0.0,
@@ -15054,6 +15054,11 @@
     },
     {
       "collected_at": "2026-08-27T21:12:30.081663+00:00",
+      "products": 0,
+      "promotions": 0
+    },
+    {
+      "collected_at": "2026-08-28T05:41:35.977105+00:00",
       "products": 0,
       "promotions": 0
     }
