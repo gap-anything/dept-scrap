@@ -1,10 +1,10 @@
 {
   "store_id": "hyundai",
   "store_name": "현대백화점",
-  "generated_at": "2026-08-31T19:10:07.771646+00:00",
-  "total_runs": 1426,
+  "generated_at": "2026-08-31T23:25:05.788547+00:00",
+  "total_runs": 1427,
   "first_collected": "2026-04-17T06:22:16.788156+00:00",
-  "last_collected": "2026-08-31T19:09:31.785261+00:00",
+  "last_collected": "2026-08-31T23:24:29.797159+00:00",
   "products": {
     "unique_total": 0,
     "avg_per_run": 0.0,
@@ -14,39 +14,39 @@
   },
   "promotions": {
     "unique_total": 69,
-    "avg_per_run": 8.2,
+    "avg_per_run": 8.3,
     "all": [
       {
         "title": "현대식품관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_grocery.png?SF=webp&AO=1",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-08-31T19:09:31.785261+00:00",
-        "appear_count": 1302
+        "last_seen": "2026-08-31T23:24:29.797159+00:00",
+        "appear_count": 1303
       },
       {
         "title": "뷰티관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_beauty.png?SF=webp&AO=1",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-08-31T19:09:31.785261+00:00",
-        "appear_count": 1302
+        "last_seen": "2026-08-31T23:24:29.797159+00:00",
+        "appear_count": 1303
       },
       {
         "title": "이머징관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_attag(1).png?SF=webp&AO=1",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-08-31T19:09:31.785261+00:00",
-        "appear_count": 1302
+        "last_seen": "2026-08-31T23:24:29.797159+00:00",
+        "appear_count": 1303
       },
       {
         "title": "리빙관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_living.png?SF=webp&AO=1",
         "first_seen": "2026-04-17T06:22:16.788156+00:00",
-        "last_seen": "2026-08-31T19:09:31.785261+00:00",
-        "appear_count": 1302
+        "last_seen": "2026-08-31T23:24:29.797159+00:00",
+        "appear_count": 1303
       },
       {
         "title": "레져관",
@@ -61,16 +61,16 @@
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_edit.png?SF=webp&AO=1",
         "first_seen": "2026-05-20T10:02:27.157269+00:00",
-        "last_seen": "2026-08-31T19:09:31.785261+00:00",
-        "appear_count": 1126
+        "last_seen": "2026-08-31T23:24:29.797159+00:00",
+        "appear_count": 1127
       },
       {
         "title": "키즈관",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/Kids_Home.png?SF=webp&AO=1",
         "first_seen": "2026-05-26T01:27:45.841497+00:00",
-        "last_seen": "2026-08-31T19:09:31.785261+00:00",
-        "appear_count": 1074
+        "last_seen": "2026-08-31T23:24:29.797159+00:00",
+        "appear_count": 1075
       },
       {
         "title": "패션관",
@@ -97,19 +97,19 @@
         "appear_count": 138
       },
       {
+        "title": "추석 2026",
+        "link": "",
+        "image": "https://image.thehyundai.com/dp/ModuBanner/TH_Gift_feed.png?SF=webp&AO=1",
+        "first_seen": "2026-08-21T09:13:14.151954+00:00",
+        "last_seen": "2026-08-31T23:24:29.797159+00:00",
+        "appear_count": 138
+      },
+      {
         "title": "레저&리빙 페스타",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/ILeisure Living Festa icon.png?SF=webp&AO=1",
         "first_seen": "2026-08-09T15:04:19.546243+00:00",
         "last_seen": "2026-08-16T14:57:37.658068+00:00",
-        "appear_count": 137
-      },
-      {
-        "title": "추석 2026",
-        "link": "",
-        "image": "https://image.thehyundai.com/dp/ModuBanner/TH_Gift_feed.png?SF=webp&AO=1",
-        "first_seen": "2026-08-21T09:13:14.151954+00:00",
-        "last_seen": "2026-08-31T19:09:31.785261+00:00",
         "appear_count": 137
       },
       {
@@ -273,6 +273,14 @@
         "appear_count": 52
       },
       {
+        "title": "레저관",
+        "link": "",
+        "image": "https://image.thehyundai.com/dp/ModuBanner/active.png?SF=webp&AO=1",
+        "first_seen": "2026-08-25T01:46:24.648798+00:00",
+        "last_seen": "2026-08-31T23:24:29.797159+00:00",
+        "appear_count": 47
+      },
+      {
         "title": "3Days",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/3days_Icon_1.gif?SF=webp&AO=1",
@@ -294,14 +302,6 @@
         "image": "https://image.thehyundai.com/dp/psm/2026/07/03/083554/아이콘키워드배너 1.png?SF=webp&AO=1",
         "first_seen": "2026-07-06T11:15:51.231533+00:00",
         "last_seen": "2026-07-12T12:30:53.588967+00:00",
-        "appear_count": 46
-      },
-      {
-        "title": "레저관",
-        "link": "",
-        "image": "https://image.thehyundai.com/dp/ModuBanner/active.png?SF=webp&AO=1",
-        "first_seen": "2026-08-25T01:46:24.648798+00:00",
-        "last_seen": "2026-08-31T19:09:31.785261+00:00",
         "appear_count": 46
       },
       {
@@ -465,27 +465,27 @@
         "appear_count": 8
       },
       {
-        "title": "모델 홍태준",
-        "link": "",
-        "image": "https://image.thehyundai.com/dp/ModuBanner/tj_profile_cap.png?SF=webp&AO=1",
-        "first_seen": "2026-07-06T20:10:08.456265+00:00",
-        "last_seen": "2026-07-09T05:47:32.060242+00:00",
-        "appear_count": 6
-      },
-      {
         "title": "뉴시즌위크",
         "link": "",
         "image": "https://image.thehyundai.com/dp/ModuBanner/NEW SS 진입점.gif?SF=webp&AO=1",
         "first_seen": "2026-08-30T18:07:11.490205+00:00",
-        "last_seen": "2026-08-31T19:09:31.785261+00:00",
-        "appear_count": 6
+        "last_seen": "2026-08-31T23:24:29.797159+00:00",
+        "appear_count": 7
       },
       {
         "title": "뉴 시즌 슈퍼 적립",
         "link": "",
         "image": "https://image.thehyundai.com/dp/psm/2026/08/24/143456/뉴시즌위크_아이콘.png?SF=webp&AO=1",
         "first_seen": "2026-08-30T18:07:11.490205+00:00",
-        "last_seen": "2026-08-31T19:09:31.785261+00:00",
+        "last_seen": "2026-08-31T23:24:29.797159+00:00",
+        "appear_count": 7
+      },
+      {
+        "title": "모델 홍태준",
+        "link": "",
+        "image": "https://image.thehyundai.com/dp/ModuBanner/tj_profile_cap.png?SF=webp&AO=1",
+        "first_seen": "2026-07-06T20:10:08.456265+00:00",
+        "last_seen": "2026-07-09T05:47:32.060242+00:00",
         "appear_count": 6
       },
       {
@@ -7701,6 +7701,11 @@
       "collected_at": "2026-08-31T19:09:31.785261+00:00",
       "products": 0,
       "promotions": 11
+    },
+    {
+      "collected_at": "2026-08-31T23:24:29.797159+00:00",
+      "products": 0,
+      "promotions": 10
     }
   ]
 }
