@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-18T18:42:49.530086+00:00",
+  "generated_at": "2026-09-18T21:40:03.365602+00:00",
   "stores": {
     "shinsegae": {
       "store_id": "shinsegae",
       "store_name": "신세계V",
-      "generated_at": "2026-09-18T18:42:49.018608+00:00",
-      "total_runs": 1537,
+      "generated_at": "2026-09-18T21:40:02.876245+00:00",
+      "total_runs": 1538,
       "first_collected": "2026-04-17T06:22:16.787782+00:00",
-      "last_collected": "2026-09-18T18:42:13.019089+00:00",
+      "last_collected": "2026-09-18T21:39:26.935148+00:00",
       "products": {
         "unique_total": 0,
         "avg_per_run": 0.0,
@@ -15699,16 +15699,21 @@
           "collected_at": "2026-09-18T18:42:13.019089+00:00",
           "products": 0,
           "promotions": 0
+        },
+        {
+          "collected_at": "2026-09-18T21:39:26.935148+00:00",
+          "products": 0,
+          "promotions": 0
         }
       ]
     },
     "hyundai": {
       "store_id": "hyundai",
       "store_name": "현대백화점",
-      "generated_at": "2026-09-18T18:42:49.129557+00:00",
-      "total_runs": 1537,
+      "generated_at": "2026-09-18T21:40:02.974091+00:00",
+      "total_runs": 1538,
       "first_collected": "2026-04-17T06:22:16.788156+00:00",
-      "last_collected": "2026-09-18T18:42:13.019363+00:00",
+      "last_collected": "2026-09-18T21:39:26.935791+00:00",
       "products": {
         "unique_total": 0,
         "avg_per_run": 0.0,
@@ -15725,48 +15730,48 @@
             "link": "",
             "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_grocery.png?SF=webp&AO=1",
             "first_seen": "2026-04-17T06:22:16.788156+00:00",
-            "last_seen": "2026-09-18T18:42:13.019363+00:00",
-            "appear_count": 1406
+            "last_seen": "2026-09-18T21:39:26.935791+00:00",
+            "appear_count": 1407
           },
           {
             "title": "뷰티관",
             "link": "",
             "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_beauty.png?SF=webp&AO=1",
             "first_seen": "2026-04-17T06:22:16.788156+00:00",
-            "last_seen": "2026-09-18T18:42:13.019363+00:00",
-            "appear_count": 1406
+            "last_seen": "2026-09-18T21:39:26.935791+00:00",
+            "appear_count": 1407
           },
           {
             "title": "이머징관",
             "link": "",
             "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_attag(1).png?SF=webp&AO=1",
             "first_seen": "2026-04-17T06:22:16.788156+00:00",
-            "last_seen": "2026-09-18T18:42:13.019363+00:00",
-            "appear_count": 1406
+            "last_seen": "2026-09-18T21:39:26.935791+00:00",
+            "appear_count": 1407
           },
           {
             "title": "리빙관",
             "link": "",
             "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_living.png?SF=webp&AO=1",
             "first_seen": "2026-04-17T06:22:16.788156+00:00",
-            "last_seen": "2026-09-18T18:42:13.019363+00:00",
-            "appear_count": 1406
+            "last_seen": "2026-09-18T21:39:26.935791+00:00",
+            "appear_count": 1407
           },
           {
             "title": "컨템패션관",
             "link": "",
             "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_edit.png?SF=webp&AO=1",
             "first_seen": "2026-05-20T10:02:27.157269+00:00",
-            "last_seen": "2026-09-18T18:42:13.019363+00:00",
-            "appear_count": 1230
+            "last_seen": "2026-09-18T21:39:26.935791+00:00",
+            "appear_count": 1231
           },
           {
             "title": "키즈관",
             "link": "",
             "image": "https://image.thehyundai.com/dp/ModuBanner/Kids_Home.png?SF=webp&AO=1",
             "first_seen": "2026-05-26T01:27:45.841497+00:00",
-            "last_seen": "2026-09-18T18:42:13.019363+00:00",
-            "appear_count": 1178
+            "last_seen": "2026-09-18T21:39:26.935791+00:00",
+            "appear_count": 1179
           },
           {
             "title": "레져관",
@@ -15781,8 +15786,8 @@
             "link": "",
             "image": "https://image.thehyundai.com/dp/ModuBanner/TH_Gift_feed.png?SF=webp&AO=1",
             "first_seen": "2026-08-21T09:13:14.151954+00:00",
-            "last_seen": "2026-09-18T18:42:13.019363+00:00",
-            "appear_count": 241
+            "last_seen": "2026-09-18T21:39:26.935791+00:00",
+            "appear_count": 242
           },
           {
             "title": "패션관",
@@ -15805,8 +15810,8 @@
             "link": "",
             "image": "https://image.thehyundai.com/dp/ModuBanner/active.png?SF=webp&AO=1",
             "first_seen": "2026-08-25T01:46:24.648798+00:00",
-            "last_seen": "2026-09-18T18:42:13.019363+00:00",
-            "appear_count": 150
+            "last_seen": "2026-09-18T21:39:26.935791+00:00",
+            "appear_count": 151
           },
           {
             "title": "레저&리빙",
@@ -16081,6 +16086,14 @@
             "appear_count": 33
           },
           {
+            "title": "팝업페스타",
+            "link": "",
+            "image": "https://image.thehyundai.com/dp/ModuBanner/whats noew 진입점(1).gif?SF=webp&AO=1",
+            "first_seen": "2026-09-10T17:56:30.800585+00:00",
+            "last_seen": "2026-09-18T21:39:26.935791+00:00",
+            "appear_count": 32
+          },
+          {
             "title": "리뷰 적립 5배 UP↑최대 1,400P",
             "link": "",
             "image": "https://image.thehyundai.com/dp/ModuBanner/11 (2).png?SF=webp&AO=1",
@@ -16094,14 +16107,6 @@
             "image": "https://image.thehyundai.com/dp/psm/2026/07/07/083251/20260707033.jpg?SF=webp&AO=1",
             "first_seen": "2026-07-16T16:25:22.177767+00:00",
             "last_seen": "2026-07-19T14:09:17.779326+00:00",
-            "appear_count": 31
-          },
-          {
-            "title": "팝업페스타",
-            "link": "",
-            "image": "https://image.thehyundai.com/dp/ModuBanner/whats noew 진입점(1).gif?SF=webp&AO=1",
-            "first_seen": "2026-09-10T17:56:30.800585+00:00",
-            "last_seen": "2026-09-18T18:42:13.019363+00:00",
             "appear_count": 31
           },
           {
@@ -16257,6 +16262,14 @@
             "appear_count": 3
           },
           {
+            "title": "코오드 오픈 페스타",
+            "link": "",
+            "image": "https://image.thehyundai.com/dp/psm/2026/09/11/140234/제목을 입력해주세요. (21).png?SF=webp&AO=1",
+            "first_seen": "2026-09-18T15:21:18.102234+00:00",
+            "last_seen": "2026-09-18T21:39:26.935791+00:00",
+            "appear_count": 3
+          },
+          {
             "title": "새로운 Galaxy",
             "link": "",
             "image": "https://image.thehyundai.com/dp/psm/2026/07/30/111015/KakaoTalk_20260728_091646290_01.jpg?SF=webp&AO=1",
@@ -16270,14 +16283,6 @@
             "image": "https://image.thehyundai.com/dp/psm/2026/09/11/104612/KakaoTalk_20260911_103953026.jpg?SF=webp&AO=1",
             "first_seen": "2026-09-14T01:34:38.251049+00:00",
             "last_seen": "2026-09-14T07:04:10.595463+00:00",
-            "appear_count": 2
-          },
-          {
-            "title": "코오드 오픈 페스타",
-            "link": "",
-            "image": "https://image.thehyundai.com/dp/psm/2026/09/11/140234/제목을 입력해주세요. (21).png?SF=webp&AO=1",
-            "first_seen": "2026-09-18T15:21:18.102234+00:00",
-            "last_seen": "2026-09-18T18:42:13.019363+00:00",
             "appear_count": 2
           },
           {
@@ -16367,8 +16372,8 @@
             "link": "",
             "image": "https://image.thehyundai.com/dp/psm/2026/09/11/140234/제목을 입력해주세요. (21).png?SF=webp&AO=1",
             "first_seen": "2026-09-18T15:21:18.102234+00:00",
-            "last_seen": "2026-09-18T18:42:13.019363+00:00",
-            "appear_count": 2
+            "last_seen": "2026-09-18T21:39:26.935791+00:00",
+            "appear_count": 3
           }
         ]
       },
@@ -24057,16 +24062,21 @@
           "collected_at": "2026-09-18T18:42:13.019363+00:00",
           "products": 0,
           "promotions": 10
+        },
+        {
+          "collected_at": "2026-09-18T21:39:26.935791+00:00",
+          "products": 0,
+          "promotions": 10
         }
       ]
     },
     "lotte": {
       "store_id": "lotte",
       "store_name": "롯데온",
-      "generated_at": "2026-09-18T18:42:49.359078+00:00",
-      "total_runs": 1537,
+      "generated_at": "2026-09-18T21:40:03.198006+00:00",
+      "total_runs": 1538,
       "first_collected": "2026-04-17T06:22:16.789258+00:00",
-      "last_collected": "2026-09-18T18:42:13.020461+00:00",
+      "last_collected": "2026-09-18T21:39:26.936704+00:00",
       "products": {
         "unique_total": 0,
         "avg_per_run": 0.0,
@@ -227348,6 +227358,11 @@
         },
         {
           "collected_at": "2026-09-18T18:42:13.020461+00:00",
+          "products": 0,
+          "promotions": 0
+        },
+        {
+          "collected_at": "2026-09-18T21:39:26.936704+00:00",
           "products": 0,
           "promotions": 0
         }
