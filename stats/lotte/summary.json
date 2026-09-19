@@ -1,10 +1,10 @@
 {
   "store_id": "lotte",
   "store_name": "롯데온",
-  "generated_at": "2026-09-19T16:46:28.495651+00:00",
-  "total_runs": 1543,
+  "generated_at": "2026-09-19T19:18:03.722159+00:00",
+  "total_runs": 1544,
   "first_collected": "2026-04-17T06:22:16.789258+00:00",
-  "last_collected": "2026-09-19T16:45:52.249850+00:00",
+  "last_collected": "2026-09-19T19:17:27.495136+00:00",
   "products": {
     "unique_total": 0,
     "avg_per_run": 0.0,
@@ -203316,6 +203316,11 @@
     },
     {
       "collected_at": "2026-09-19T16:45:52.249850+00:00",
+      "products": 0,
+      "promotions": 0
+    },
+    {
+      "collected_at": "2026-09-19T19:17:27.495136+00:00",
       "products": 0,
       "promotions": 0
     }
