@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-20T14:22:59.945231+00:00",
+  "generated_at": "2026-09-20T17:39:04.164735+00:00",
   "stores": {
     "shinsegae": {
       "store_id": "shinsegae",
       "store_name": "신세계V",
-      "generated_at": "2026-09-20T14:22:59.548926+00:00",
-      "total_runs": 1549,
+      "generated_at": "2026-09-20T17:39:03.674014+00:00",
+      "total_runs": 1550,
       "first_collected": "2026-04-17T06:22:16.787782+00:00",
-      "last_collected": "2026-09-20T14:22:23.846586+00:00",
+      "last_collected": "2026-09-20T17:38:27.777847+00:00",
       "products": {
         "unique_total": 0,
         "avg_per_run": 0.0,
@@ -15759,16 +15759,21 @@
           "collected_at": "2026-09-20T14:22:23.846586+00:00",
           "products": 0,
           "promotions": 0
+        },
+        {
+          "collected_at": "2026-09-20T17:38:27.777847+00:00",
+          "products": 0,
+          "promotions": 0
         }
       ]
     },
     "hyundai": {
       "store_id": "hyundai",
       "store_name": "현대백화점",
-      "generated_at": "2026-09-20T14:22:59.622881+00:00",
-      "total_runs": 1549,
+      "generated_at": "2026-09-20T17:39:03.774168+00:00",
+      "total_runs": 1550,
       "first_collected": "2026-04-17T06:22:16.788156+00:00",
-      "last_collected": "2026-09-20T14:22:23.846907+00:00",
+      "last_collected": "2026-09-20T17:38:27.778135+00:00",
       "products": {
         "unique_total": 0,
         "avg_per_run": 0.0,
@@ -15777,7 +15782,7 @@
         "new_products": []
       },
       "promotions": {
-        "unique_total": 80,
+        "unique_total": 82,
         "avg_per_run": 8.3,
         "all": [
           {
@@ -15785,48 +15790,48 @@
             "link": "",
             "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_grocery.png?SF=webp&AO=1",
             "first_seen": "2026-04-17T06:22:16.788156+00:00",
-            "last_seen": "2026-09-20T14:22:23.846907+00:00",
-            "appear_count": 1417
+            "last_seen": "2026-09-20T17:38:27.778135+00:00",
+            "appear_count": 1418
           },
           {
             "title": "뷰티관",
             "link": "",
             "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_beauty.png?SF=webp&AO=1",
             "first_seen": "2026-04-17T06:22:16.788156+00:00",
-            "last_seen": "2026-09-20T14:22:23.846907+00:00",
-            "appear_count": 1417
+            "last_seen": "2026-09-20T17:38:27.778135+00:00",
+            "appear_count": 1418
           },
           {
             "title": "이머징관",
             "link": "",
             "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_attag(1).png?SF=webp&AO=1",
             "first_seen": "2026-04-17T06:22:16.788156+00:00",
-            "last_seen": "2026-09-20T14:22:23.846907+00:00",
-            "appear_count": 1417
+            "last_seen": "2026-09-20T17:38:27.778135+00:00",
+            "appear_count": 1418
           },
           {
             "title": "리빙관",
             "link": "",
             "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_living.png?SF=webp&AO=1",
             "first_seen": "2026-04-17T06:22:16.788156+00:00",
-            "last_seen": "2026-09-20T14:22:23.846907+00:00",
-            "appear_count": 1417
+            "last_seen": "2026-09-20T17:38:27.778135+00:00",
+            "appear_count": 1418
           },
           {
             "title": "컨템패션관",
             "link": "",
             "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_edit.png?SF=webp&AO=1",
             "first_seen": "2026-05-20T10:02:27.157269+00:00",
-            "last_seen": "2026-09-20T14:22:23.846907+00:00",
-            "appear_count": 1241
+            "last_seen": "2026-09-20T17:38:27.778135+00:00",
+            "appear_count": 1242
           },
           {
             "title": "키즈관",
             "link": "",
             "image": "https://image.thehyundai.com/dp/ModuBanner/Kids_Home.png?SF=webp&AO=1",
             "first_seen": "2026-05-26T01:27:45.841497+00:00",
-            "last_seen": "2026-09-20T14:22:23.846907+00:00",
-            "appear_count": 1189
+            "last_seen": "2026-09-20T17:38:27.778135+00:00",
+            "appear_count": 1190
           },
           {
             "title": "레져관",
@@ -15841,8 +15846,8 @@
             "link": "",
             "image": "https://image.thehyundai.com/dp/ModuBanner/TH_Gift_feed.png?SF=webp&AO=1",
             "first_seen": "2026-08-21T09:13:14.151954+00:00",
-            "last_seen": "2026-09-20T14:22:23.846907+00:00",
-            "appear_count": 252
+            "last_seen": "2026-09-20T17:38:27.778135+00:00",
+            "appear_count": 253
           },
           {
             "title": "패션관",
@@ -15857,8 +15862,8 @@
             "link": "",
             "image": "https://image.thehyundai.com/dp/ModuBanner/active.png?SF=webp&AO=1",
             "first_seen": "2026-08-25T01:46:24.648798+00:00",
-            "last_seen": "2026-09-20T14:22:23.846907+00:00",
-            "appear_count": 161
+            "last_seen": "2026-09-20T17:38:27.778135+00:00",
+            "appear_count": 162
           },
           {
             "title": "미식위크",
@@ -16419,9 +16424,42 @@
             "first_seen": "2026-09-18T00:49:23.313011+00:00",
             "last_seen": "2026-09-18T00:49:23.313011+00:00",
             "appear_count": 1
+          },
+          {
+            "title": "FW 트렌드",
+            "link": "",
+            "image": "https://image.thehyundai.com/dp/ModuBanner/Trend Pick 진입점2.gif?SF=webp&AO=1",
+            "first_seen": "2026-09-20T17:38:27.778135+00:00",
+            "last_seen": "2026-09-20T17:38:27.778135+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "FW 트렌드 픽",
+            "link": "",
+            "image": "https://image.thehyundai.com/dp/ModuBanner/Trend Pick_Img.png?SF=webp&AO=1",
+            "first_seen": "2026-09-20T17:38:27.778135+00:00",
+            "last_seen": "2026-09-20T17:38:27.778135+00:00",
+            "appear_count": 1
           }
         ],
-        "new_promotions": []
+        "new_promotions": [
+          {
+            "title": "FW 트렌드",
+            "link": "",
+            "image": "https://image.thehyundai.com/dp/ModuBanner/Trend Pick 진입점2.gif?SF=webp&AO=1",
+            "first_seen": "2026-09-20T17:38:27.778135+00:00",
+            "last_seen": "2026-09-20T17:38:27.778135+00:00",
+            "appear_count": 1
+          },
+          {
+            "title": "FW 트렌드 픽",
+            "link": "",
+            "image": "https://image.thehyundai.com/dp/ModuBanner/Trend Pick_Img.png?SF=webp&AO=1",
+            "first_seen": "2026-09-20T17:38:27.778135+00:00",
+            "last_seen": "2026-09-20T17:38:27.778135+00:00",
+            "appear_count": 1
+          }
+        ]
       },
       "run_history": [
         {
@@ -24168,16 +24206,21 @@
           "collected_at": "2026-09-20T14:22:23.846907+00:00",
           "products": 0,
           "promotions": 10
+        },
+        {
+          "collected_at": "2026-09-20T17:38:27.778135+00:00",
+          "products": 0,
+          "promotions": 10
         }
       ]
     },
     "lotte": {
       "store_id": "lotte",
       "store_name": "롯데온",
-      "generated_at": "2026-09-20T14:22:59.802416+00:00",
-      "total_runs": 1549,
+      "generated_at": "2026-09-20T17:39:03.998971+00:00",
+      "total_runs": 1550,
       "first_collected": "2026-04-17T06:22:16.789258+00:00",
-      "last_collected": "2026-09-20T14:22:23.847495+00:00",
+      "last_collected": "2026-09-20T17:38:27.779216+00:00",
       "products": {
         "unique_total": 0,
         "avg_per_run": 0.0,
@@ -24187,7 +24230,7 @@
       },
       "promotions": {
         "unique_total": 24448,
-        "avg_per_run": 47.9,
+        "avg_per_run": 47.8,
         "all": [
           {
             "title": "슈즈",
@@ -227519,6 +227562,11 @@
         },
         {
           "collected_at": "2026-09-20T14:22:23.847495+00:00",
+          "products": 0,
+          "promotions": 0
+        },
+        {
+          "collected_at": "2026-09-20T17:38:27.779216+00:00",
           "products": 0,
           "promotions": 0
         }
