@@ -1,10 +1,10 @@
 {
   "store_id": "lotte",
   "store_name": "롯데온",
-  "generated_at": "2026-09-24T17:32:11.677538+00:00",
-  "total_runs": 1572,
+  "generated_at": "2026-09-24T20:46:27.142227+00:00",
+  "total_runs": 1573,
   "first_collected": "2026-04-17T06:22:16.789258+00:00",
-  "last_collected": "2026-09-24T17:31:35.377772+00:00",
+  "last_collected": "2026-09-24T20:45:50.854580+00:00",
   "products": {
     "unique_total": 0,
     "avg_per_run": 0.0,
@@ -14,7 +14,7 @@
   },
   "promotions": {
     "unique_total": 24448,
-    "avg_per_run": 47.2,
+    "avg_per_run": 47.1,
     "all": [
       {
         "title": "슈즈",
@@ -203461,6 +203461,11 @@
     },
     {
       "collected_at": "2026-09-24T17:31:35.377772+00:00",
+      "products": 0,
+      "promotions": 0
+    },
+    {
+      "collected_at": "2026-09-24T20:45:50.854580+00:00",
       "products": 0,
       "promotions": 0
     }
