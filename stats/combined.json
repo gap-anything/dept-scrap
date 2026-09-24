@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-24T00:50:29.874300+00:00",
+  "generated_at": "2026-09-24T06:03:11.979482+00:00",
   "stores": {
     "shinsegae": {
       "store_id": "shinsegae",
       "store_name": "신세계V",
-      "generated_at": "2026-09-24T00:50:29.432494+00:00",
-      "total_runs": 1569,
+      "generated_at": "2026-09-24T06:03:11.472437+00:00",
+      "total_runs": 1570,
       "first_collected": "2026-04-17T06:22:16.787782+00:00",
-      "last_collected": "2026-09-24T00:49:53.490346+00:00",
+      "last_collected": "2026-09-24T06:02:35.328115+00:00",
       "products": {
         "unique_total": 0,
         "avg_per_run": 0.0,
@@ -15859,16 +15859,21 @@
           "collected_at": "2026-09-24T00:49:53.490346+00:00",
           "products": 0,
           "promotions": 0
+        },
+        {
+          "collected_at": "2026-09-24T06:02:35.328115+00:00",
+          "products": 0,
+          "promotions": 0
         }
       ]
     },
     "hyundai": {
       "store_id": "hyundai",
       "store_name": "현대백화점",
-      "generated_at": "2026-09-24T00:50:29.511182+00:00",
-      "total_runs": 1569,
+      "generated_at": "2026-09-24T06:03:11.570500+00:00",
+      "total_runs": 1570,
       "first_collected": "2026-04-17T06:22:16.788156+00:00",
-      "last_collected": "2026-09-24T00:49:53.491368+00:00",
+      "last_collected": "2026-09-24T06:02:35.328892+00:00",
       "products": {
         "unique_total": 0,
         "avg_per_run": 0.0,
@@ -16561,16 +16566,7 @@
             "appear_count": 1
           }
         ],
-        "new_promotions": [
-          {
-            "title": "김천 이지플 사과🍎",
-            "link": "",
-            "image": "https://image.thehyundai.com/dp/psm/2026/09/11/094941/이지플사과_60X60.jpg?SF=webp&AO=1",
-            "first_seen": "2026-09-23T18:36:31.208032+00:00",
-            "last_seen": "2026-09-24T00:49:53.491368+00:00",
-            "appear_count": 3
-          }
-        ]
+        "new_promotions": []
       },
       "run_history": [
         {
@@ -24417,16 +24413,21 @@
           "collected_at": "2026-09-24T00:49:53.491368+00:00",
           "products": 0,
           "promotions": 10
+        },
+        {
+          "collected_at": "2026-09-24T06:02:35.328892+00:00",
+          "products": 0,
+          "promotions": 0
         }
       ]
     },
     "lotte": {
       "store_id": "lotte",
       "store_name": "롯데온",
-      "generated_at": "2026-09-24T00:50:29.710573+00:00",
-      "total_runs": 1569,
+      "generated_at": "2026-09-24T06:03:11.804846+00:00",
+      "total_runs": 1570,
       "first_collected": "2026-04-17T06:22:16.789258+00:00",
-      "last_collected": "2026-09-24T00:49:53.491998+00:00",
+      "last_collected": "2026-09-24T06:02:35.329954+00:00",
       "products": {
         "unique_total": 0,
         "avg_per_run": 0.0,
@@ -227868,6 +227869,11 @@
         },
         {
           "collected_at": "2026-09-24T00:49:53.491998+00:00",
+          "products": 0,
+          "promotions": 0
+        },
+        {
+          "collected_at": "2026-09-24T06:02:35.329954+00:00",
           "products": 0,
           "promotions": 0
         }
