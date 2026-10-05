@@ -1,10 +1,10 @@
 {
   "store_id": "hyundai",
   "store_name": "현대백화점",
-  "generated_at": "2026-10-05T00:43:17.300712+00:00",
-  "total_runs": 1624,
+  "generated_at": "2026-10-05T06:51:14.947452+00:00",
+  "total_runs": 1625,
   "first_collected": "2026-04-17T06:22:16.788156+00:00",
-  "last_collected": "2026-10-05T00:42:41.182643+00:00",
+  "last_collected": "2026-10-05T06:50:38.758912+00:00",
   "products": {
     "unique_total": 0,
     "avg_per_run": 0.0,
@@ -745,24 +745,7 @@
         "appear_count": 1
       }
     ],
-    "new_promotions": [
-      {
-        "title": "피크닉위크",
-        "link": "",
-        "image": "https://image.thehyundai.com/dp/ModuBanner/Autumn Picnic Week 진입점_2.gif?SF=webp&AO=1",
-        "first_seen": "2026-10-04T18:20:20.147091+00:00",
-        "last_seen": "2026-10-05T00:42:41.182643+00:00",
-        "appear_count": 3
-      },
-      {
-        "title": "가을 피크닉 위크",
-        "link": "",
-        "image": "https://image.thehyundai.com/dp/psm/2026/09/30/135317/Autumn Picnic Week _Img.png?SF=webp&AO=1",
-        "first_seen": "2026-10-04T18:20:20.147091+00:00",
-        "last_seen": "2026-10-05T00:42:41.182643+00:00",
-        "appear_count": 3
-      }
-    ]
+    "new_promotions": []
   },
   "run_history": [
     {
@@ -8884,6 +8867,11 @@
       "collected_at": "2026-10-05T00:42:41.182643+00:00",
       "products": 0,
       "promotions": 10
+    },
+    {
+      "collected_at": "2026-10-05T06:50:38.758912+00:00",
+      "products": 0,
+      "promotions": 0
     }
   ]
 }

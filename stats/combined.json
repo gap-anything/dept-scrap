@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-05T00:43:17.727304+00:00",
+  "generated_at": "2026-10-05T06:51:15.360044+00:00",
   "stores": {
     "shinsegae": {
       "store_id": "shinsegae",
       "store_name": "신세계V",
-      "generated_at": "2026-10-05T00:43:17.187905+00:00",
-      "total_runs": 1624,
+      "generated_at": "2026-10-05T06:51:14.840336+00:00",
+      "total_runs": 1625,
       "first_collected": "2026-04-17T06:22:16.787782+00:00",
-      "last_collected": "2026-10-05T00:42:41.181696+00:00",
+      "last_collected": "2026-10-05T06:50:38.758602+00:00",
       "products": {
         "unique_total": 0,
         "avg_per_run": 0.0,
@@ -16134,16 +16134,21 @@
           "collected_at": "2026-10-05T00:42:41.181696+00:00",
           "products": 0,
           "promotions": 0
+        },
+        {
+          "collected_at": "2026-10-05T06:50:38.758602+00:00",
+          "products": 0,
+          "promotions": 0
         }
       ]
     },
     "hyundai": {
       "store_id": "hyundai",
       "store_name": "현대백화점",
-      "generated_at": "2026-10-05T00:43:17.300712+00:00",
-      "total_runs": 1624,
+      "generated_at": "2026-10-05T06:51:14.947452+00:00",
+      "total_runs": 1625,
       "first_collected": "2026-04-17T06:22:16.788156+00:00",
-      "last_collected": "2026-10-05T00:42:41.182643+00:00",
+      "last_collected": "2026-10-05T06:50:38.758912+00:00",
       "products": {
         "unique_total": 0,
         "avg_per_run": 0.0,
@@ -16884,24 +16889,7 @@
             "appear_count": 1
           }
         ],
-        "new_promotions": [
-          {
-            "title": "피크닉위크",
-            "link": "",
-            "image": "https://image.thehyundai.com/dp/ModuBanner/Autumn Picnic Week 진입점_2.gif?SF=webp&AO=1",
-            "first_seen": "2026-10-04T18:20:20.147091+00:00",
-            "last_seen": "2026-10-05T00:42:41.182643+00:00",
-            "appear_count": 3
-          },
-          {
-            "title": "가을 피크닉 위크",
-            "link": "",
-            "image": "https://image.thehyundai.com/dp/psm/2026/09/30/135317/Autumn Picnic Week _Img.png?SF=webp&AO=1",
-            "first_seen": "2026-10-04T18:20:20.147091+00:00",
-            "last_seen": "2026-10-05T00:42:41.182643+00:00",
-            "appear_count": 3
-          }
-        ]
+        "new_promotions": []
       },
       "run_history": [
         {
@@ -25023,16 +25011,21 @@
           "collected_at": "2026-10-05T00:42:41.182643+00:00",
           "products": 0,
           "promotions": 10
+        },
+        {
+          "collected_at": "2026-10-05T06:50:38.758912+00:00",
+          "products": 0,
+          "promotions": 0
         }
       ]
     },
     "lotte": {
       "store_id": "lotte",
       "store_name": "롯데온",
-      "generated_at": "2026-10-05T00:43:17.547638+00:00",
-      "total_runs": 1624,
+      "generated_at": "2026-10-05T06:51:15.186013+00:00",
+      "total_runs": 1625,
       "first_collected": "2026-04-17T06:22:16.789258+00:00",
-      "last_collected": "2026-10-05T00:42:41.182959+00:00",
+      "last_collected": "2026-10-05T06:50:38.759673+00:00",
       "products": {
         "unique_total": 0,
         "avg_per_run": 0.0,
@@ -228749,6 +228742,11 @@
         },
         {
           "collected_at": "2026-10-05T00:42:41.182959+00:00",
+          "products": 0,
+          "promotions": 0
+        },
+        {
+          "collected_at": "2026-10-05T06:50:38.759673+00:00",
           "products": 0,
           "promotions": 0
         }
