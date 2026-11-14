@@ -1,0 +1,74 @@
+{
+  "store_id": "hyundai",
+  "store_name": "현대백화점",
+  "collected_at": "2026-11-14T21:19:21.270859+00:00",
+  "url": "https://hi.thehyundai.com",
+  "promotions": [
+    {
+      "title": "1년에 단 한 번!",
+      "full_text": "1년에 단 한 번!\n\n최대 100만원 적립부터 반값 페이백까지",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/PopupMng/메인팝업.png?SF=webp&AO=1",
+      "selector": "[class*='banner']"
+    },
+    {
+      "title": "슈퍼 위크",
+      "full_text": "슈퍼 위크",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/전문관(3).gif?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "현대식품관",
+      "full_text": "현대식품관",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_grocery.png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "컨템패션관",
+      "full_text": "컨템패션관",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_edit.png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "뷰티관",
+      "full_text": "뷰티관",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_beauty.png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "이머징관",
+      "full_text": "이머징관",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_attag(1).png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "리빙관",
+      "full_text": "리빙관",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/feed_ic_living.png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "레저관",
+      "full_text": "레저관",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/active.png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    },
+    {
+      "title": "키즈관",
+      "full_text": "키즈관",
+      "link": "",
+      "image": "https://image.thehyundai.com/dp/ModuBanner/Kids_Home(1).png?SF=webp&AO=1",
+      "selector": ".swiper-slide"
+    }
+  ],
+  "products": [],
+  "error": null,
+  "screenshot": "data/hyundai/2026/11/14/screenshot_2119.png"
+}
